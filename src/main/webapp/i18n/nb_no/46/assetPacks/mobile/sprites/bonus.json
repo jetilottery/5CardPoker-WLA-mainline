@@ -1,0 +1,102 @@
+{"frames": {
+
+"choice_Club.png":
+{
+	"frame": {"x":82,"y":813,"w":80,"h":79},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":79},
+	"sourceSize": {"w":80,"h":80}
+},
+"choice_Diamond.png":
+{
+	"frame": {"x":163,"y":813,"w":68,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":68,"h":80},
+	"sourceSize": {"w":80,"h":80}
+},
+"choice_Heart.png":
+{
+	"frame": {"x":1,"y":813,"w":79,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":80},
+	"sourceSize": {"w":80,"h":80}
+},
+"choice_Spade.png":
+{
+	"frame": {"x":233,"y":813,"w":71,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":71,"h":79},
+	"sourceSize": {"w":80,"h":80}
+},
+"landscape_InfoBanner.png":
+{
+	"frame": {"x":306,"y":850,"w":945,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":945,"h":45},
+	"sourceSize": {"w":945,"h":45}
+},
+"landscape_introBanner.png":
+{
+	"frame": {"x":337,"y":723,"w":919,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":919,"h":45},
+	"sourceSize": {"w":919,"h":45}
+},
+"landscape_PrizeSection.png":
+{
+	"frame": {"x":1059,"y":1,"w":337,"h":422},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":337,"h":422},
+	"sourceSize": {"w":337,"h":422}
+},
+"pickerChoice_Starburst.png":
+{
+	"frame": {"x":337,"y":1,"w":720,"h":720},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":720},
+	"sourceSize": {"w":720,"h":720}
+},
+"portrait_InfoBanner.png":
+{
+	"frame": {"x":306,"y":773,"w":770,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":770,"h":75},
+	"sourceSize": {"w":770,"h":75}
+},
+"portrait_introBanner.png":
+{
+	"frame": {"x":242,"y":1,"w":770,"h":93},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":770,"h":93},
+	"sourceSize": {"w":770,"h":93}
+},
+"portrait_PrizeSection2.png":
+{
+	"frame": {"x":1,"y":1,"w":810,"h":239},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":239},
+	"sourceSize": {"w":810,"h":239}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bonus.png",
+	"format": "RGBA8888",
+	"size": {"w":1397,"h":896},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:61fddb0ac65732afc9dfb5b9d3f4bec3:cfe690290a6bea3e0c9be84c63b55b4f:813837d19f10df14e0ada026fc10b6f4$"
+}
+}

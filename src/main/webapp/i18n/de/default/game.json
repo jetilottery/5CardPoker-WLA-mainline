@@ -1,0 +1,158 @@
+﻿{
+    "version": "11-18-2020 2:01PM 5 Card Cash Default SM",
+    "audioLoader":
+    {
+        "yes": "Ja",
+        "no": "Nein",
+        "confirm": "Benötigen Sie Sound?"
+    },
+    "Paytable": {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "{@minRTP}% bis {@maxRTP}%",
+        "paybackTitle": "Erwartete Rückzahlung",
+        "paybackBody": "Für dieses Spiel beträgt die langfristig erwartete Rückzahlung {RTP}."
+    },
+    "title": "5 Card Poker",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "Hilfe",
+            "payTable": "Gewinntabelle",
+            "price": "Preis",
+            "stake": "Einsatz",
+            "balance": "Guthaben",
+			"prizeDivision": "Preis-Aufteilung",
+			"prizeValue": "Preis-Wert",
+			"approximatePrize": "Ungefähr verbleibende Preise",
+			"oddsPerPlay": "Chancen pro Spiel",
+			"overAllOdds": "Die Chance, bei einem Spiel einen Preis zu gewinnen, beträgt insgesamt 1 zu {oddNum}",
+			"availablePrices": "Verfügbare Preispunkte:{prices}"
+        },
+        "Commercial":
+        {
+            "howToPlay": "Hilfe",
+            "payTable": "Gewinntabelle",
+            "price": "Preis",
+            "stake": "Einsatz",
+            "balance": "Guthaben"
+        },
+        "audio":
+        {
+            "on": "Ein",
+            "off": "Aus",
+            "sound": "Sound"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Fehler:29000\n\nEs ist ein interner Fehler aufgetreten.\nBEENDEN und neu starten.",
+        "lostConnection": "Verbindung verloren!"
+    },
+    "Game":
+    {        
+        "demo": "DEMO ",
+        "button_buy": "KAUFEN",
+        "button_try": "DEMO",
+        "button_play": "SPIELEN",
+        "button_continue": "WEITER",
+        "button_move2moneyGame": "UM GELD SPIELEN",
+        "button_autoPlay": "ALLE AUFDECKEN",
+        "button_payTable": "GEWINNTABELLE",
+        "button_retry": "ERNEUT VERSUCHEN",
+        "wager": "TICKETPREIS",
+        "meter_wager": "TICKETPREIS",
+        "balance": "GUTHABEN",
+        "wins": "GEWINN",
+        "wins_demo": "DEMO-GEWINN",
+        "message_nonWin": "MEHR GLÜCK\nBEIM NÄCHSTEN MAL",
+
+        "message_buyWin": "GESAMTGEWINN",
+        "message_tryWin": "DEMO GESAMT",
+
+        "message_close": "OK",
+        "button_exit": "BEENDEN",
+        "session_timeout_warning_exit_button": "BEENDEN",
+        "error_button_exit": "BEENDEN",
+        "warning_button_continue": "WEITER",
+        "warning_button_exitGame": "BEENDEN",
+        "warning_title": "WARNUNG",
+        "error_title": "FEHLER",
+        "win_up_to": "Gewinnen Sie bis zu ",
+        "win_up_to_mark": "!",
+
+        "tutorial_title_0": "SO WIRD GESPIELT",
+        "tutorial_00_landscape": "Stimmen Sie eine IHRER HÄNDE mit\nPREISHÄNDEN überein, um sofort zu gewinnen.\n\nDrücken Sie auf PREISHÄNDE ANZEIGEN,\num die verfügbaren Preise anzuzeigen.",
+        "tutorial_00_portrait": "Stimmen Sie eine IHRER HÄNDE mit\nPREISHÄNDEN überein, um sofort zu gewinnen.\n\nDrücken Sie auf PREISHÄNDE ANZEIGEN,\num die verfügbaren Preise anzuzeigen.", 
+       "tutorial_title_1": "PREISHÄNDE",
+        "tutorial_01_landscape": "Royal Flush – 10, Bube, Dame, König und Ass derselben Kartenfarbe\n\nStraight Flush – fünf aufeinanderfolgende Kartens derselben Kartenfarbe\n\nVier Gleiche – vier Karten desselben Rangs\n\nFull House – Drei Gleiche und ein Pair",
+        "tutorial_01_portrait": "Royal Flush – 10, Bube, Dame, König und Ass derselben Kartenfarbe\n\nStraight Flush – fünf aufeinanderfolgende Karten derselben Kartenfarbe\n\nVier Gleiche – vier Karten desselben Rangs\n\nFull House – Drei Gleiche und ein Pair",
+        "tutorial_title_2": "PREISHÄNDE",
+        "tutorial_02_landscape": "Flush – fünf beliebige Karten derselben Farbe\n\nStraight – fünf aufeinanderfolgende Karten\n\nDrei Gleiche – drei Karten desselben Rangs\n\nZwei Pairs – zwei beliebige Pairs",
+        "tutorial_02_portrait": "Flush – fünf beliebige Kartenderselben Farbe\n\nStraight – fünf aufeinanderfolgende Karten\n\nDrei Gleiche – drei Karten desselben Rangs\n\nZwei Pairs – zwei beliebige Pairs",		
+         "tutorial_title_3": "GLÜCKSFARBEN-BONUS",   
+		"tutorial_03_landscape": "Finden Sie einen GOLDENEN CHIP, um das GLÜCKSFARBEN-Bonusspiel auszulösen!\n\nWählen Sie ihre GLÜCKSFARBE\n\nDecken Sie alle 12 Karten auf – Stimmen Sie 4 oder mehr Karten\nmit Ihrer GLÜCKSFARBE überein, um Preise zu gewinnen! ",
+        "tutorial_03_portrait": "Finden Sie einen GOLDENEN CHIP,\num das GLÜCKSFARBEN-Bonusspiel auszulösen!\n\nWählen Sie ihre GLÜCKSFARBE\n\nDecken Sie alle 12 Karten auf –\nStimmen Sie 4 oder mehr Karten\nmit Ihrer GLÜCKSFARBE überein, um Preise zu gewinnen! ",
+        "tutorial_title_4": "GLÜCKSHANDZIEHUNG",        
+        "tutorial_04_landscape": "Am Ende jedes Spiels findet eine GLÜCKSHAND-Ziehung statt!\n\n5 Karten werden gezogen\n\nStimmen Sie 2 oder mehr Karten\nIHRER HAND mit denen der GLÜCKSZIEHUNGS-HAND überein, um zu gewinnen!",
+        "tutorial_04_portrait": "Am Ende jedes Spiels\nfindet eine GLÜCKSHAND-Ziehung statt!\n\n5 Karten werden gezogen\n\nStimmen Sie 2 oder mehr Karten\nIHRER HAND\nmit denen der GLÜCKSZIEHUNGS-HAND überein, um zu gewinnen!",
+        
+        "yourHandsInfo":"Gewinnen Sie sofort, wenn eine IHRER HÄNDE mit den PREISHÄNDEN übereinstimmt!",
+        "yourHandsInfo_P":"Stimmen Sie Karten\nmit einer IHRER HÄNDE\nüberein, um zu gewinnen!",
+        
+        "your_hands": "IHRE HÄNDE",
+        "show_button_prize":"PREISHÄNDE ANZEIGEN",
+        "hide_button_prize":"PREISHÄNDE AUSBLENDEN",
+        "luckyBonusInfo":"Löst das GLÜCKSFARBEN-\nBonusspiel aus!",
+        "luckyHandInfo":"GLÜCKSHANDZIEHUNG am Ende\njedes Spiels!",
+        "bonusWin":"Glücksfarben - ",
+        "bonusWinHead":"   ",
+        "luckyHandWin":"Glückshand – ",
+
+        "pocker_A":"Royal Flush",
+        "pocker_B":"Straight Flush",
+        "pocker_C":"4 Gleiche",
+        "pocker_D":"Full House",
+        "pocker_E":"Flush",
+        "pocker_F":"Straight",
+        "pocker_G":"3 Gleiche",
+        "pocker_H":"2 Pairs",
+        "prizeContact":" - ",
+        "prizeTableInfo":"Gewinnen Sie sofort, wenn eine IHRER HÄNDE mit den PREISHÄNDEN übereinstimmt!",
+        "prizeTableInfo_P":"Gewinnen Sie sofort,\nwenn eine IHRER HÄNDE mit\nden PREISHÄNDEN übereinstimmt!",
+        "Disclaimer": "* Preishand-Bilder dienen\nnur als Beispiel",
+        "luckyBonus": "GLÜCKSFARBEN-BONUS",
+        "luckySUITS": "GLÜCKSFARBEN",
+
+        "pickInfo": "Wählen Sie eine GLÜCKSFARBE, um den Bonus zu starten",
+        "pickInfo_P": "Wählen Sie eine GLÜCKSFARBE,\num den Bonus zu starten",
+        "pickInfoResult": "Ihre gewählte FARBE ist ",
+        "pickInfoResult_P": "Ihre gewählte FARBE ist\n",
+        "pocker_Spades":"PIK",
+        "pocker_Hearts":"HERZ",
+        "pocker_Diamonds":"KARO",
+        "pocker_Clubs":"KREUZ",
+
+       "luckyBonusPickedInfo":"Klicken Sie auf jede Karte und decken Sie 4 oder mehr {suit} auf, um Preise zu gewinnen",
+        "luckyBonusPickedInfo_P":"Klicken Sie auf jede Karte und decken Sie 4 oder mehr {suit} auf,\num Preise zu gewinnen",
+        "luckyBonusPrize":"PREISE",
+
+        "match" : "Übereinstimmung ",
+
+        "luckyHand":"GLÜCKSHAND",
+        "luckyHandBonusInfo":"Stimmen Sie Karten\nmit einer IHRER HÄNDE\nüberein, um zu gewinnen!",
+        "luckyHandBonusInfo_P":"Stimmen Sie Karten mit einer IHRER HÄNDE überein, um zu gewinnen!",
+
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Preis-Stufe",
+        "prizeDescription":"Beschreibung",
+        "prizeLuckyHand":"Glückshand-Übereinstimmung ",
+        "prizeBonus":"Glücksfarbenbonus-Übereinstimmung ",
+
+        "paytableWager":"Ticketpreis: ",
+        "prizeValue": "Preis-Wert",
+		"lucky": "GLÜCKLICH",
+        "multi":"x"
+    }
+}

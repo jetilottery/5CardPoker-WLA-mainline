@@ -1,0 +1,85 @@
+{"frames": {
+
+"landscape_WinPlaque.png":
+{
+	"frame": {"x":1,"y":1,"w":1419,"h":796},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1419,"h":796},
+	"sourceSize": {"w":1419,"h":796}
+},
+"particles_spin.png":
+{
+	"frame": {"x":1603,"y":1415,"w":326,"h":349},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":190,"y":31,"w":326,"h":349},
+	"sourceSize": {"w":720,"h":405}
+},
+"portrait_BonusInfo.png":
+{
+	"frame": {"x":1422,"y":1,"w":716,"h":251},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":716,"h":251},
+	"sourceSize": {"w":716,"h":251}
+},
+"portrait_howToWin.png":
+{
+	"frame": {"x":1603,"y":813,"w":600,"h":300},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":300},
+	"sourceSize": {"w":600,"h":300}
+},
+"portrait_KeepPlaying.png":
+{
+	"frame": {"x":1675,"y":1,"w":810,"h":293},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":293},
+	"sourceSize": {"w":810,"h":293}
+},
+"portrait_LosePlaque.png":
+{
+	"frame": {"x":1675,"y":1,"w":810,"h":293},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":293},
+	"sourceSize": {"w":810,"h":293}
+},
+"portrait_LuckyHands.png":
+{
+	"frame": {"x":791,"y":1611,"w":810,"h":352},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":352},
+	"sourceSize": {"w":810,"h":352}
+},
+"portrait_tutorialBackground.png":
+{
+	"frame": {"x":1,"y":799,"w":788,"h":986},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":788,"h":986},
+	"sourceSize": {"w":788,"h":986}
+},
+"portrait_WinPlaque.png":
+{
+	"frame": {"x":791,"y":799,"w":810,"h":810},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":810},
+	"sourceSize": {"w":810,"h":810}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "plaquesTotalWin-1.png",
+	"format": "RGBA8888",
+	"size": {"w":1969,"h":1964},
+	"scale": "1",
+	"related_multi_packs": [ "plaquesTotalWin-0.json", "plaquesTotalWin-2.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:7d1f992693aaeb64e32bfd9e81fc4ad4:da974d1dcd3b5b00bcbc5c94b1870d68:971e36cc209df77f65fd74ffbbe092bf$"
+}
+}

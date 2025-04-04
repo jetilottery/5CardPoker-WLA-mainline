@@ -1,0 +1,21 @@
+{
+  "urls": [
+    "ch19.ogg",
+    "ch19.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "LuckyHandCardMatch": [
+      1050,
+      2382.3809523809523
+    ],
+    "SuitMatch": [
+      4100,
+      2838.1632653061224
+    ]
+  }
+}

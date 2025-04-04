@@ -1,0 +1,48 @@
+
+backgroundAmbience.png
+size: 4868,4506
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sourceArt/bigger_0000
+  rotate: true
+  xy: 2, 1624
+  size: 2880, 1620
+  orig: 2880, 1620
+  offset: 0, 0
+  index: -1
+sourceArt/bigger_0016
+  rotate: false
+  xy: 2, 2
+  size: 2880, 1620
+  orig: 2880, 1620
+  offset: 0, 0
+  index: -1
+sourceArt/bigger_0068
+  rotate: true
+  xy: 1624, 1624
+  size: 2880, 1620
+  orig: 2880, 1620
+  offset: 0, 0
+  index: -1
+sourceArt/bigger_0083
+  rotate: true
+  xy: 3246, 1624
+  size: 2880, 1620
+  orig: 2880, 1620
+  offset: 0, 0
+  index: -1
+sourceArt/landscape_BG
+  rotate: true
+  xy: 2884, 182
+  size: 1440, 810
+  orig: 1440, 810
+  offset: 0, 0
+  index: -1
+sourceArt/portrait_BG
+  rotate: false
+  xy: 3696, 182
+  size: 810, 1440
+  orig: 810, 1440
+  offset: 0, 0
+  index: -1

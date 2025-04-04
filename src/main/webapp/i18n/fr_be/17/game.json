@@ -1,0 +1,163 @@
+﻿{
+    "version": "18/11/2020 14h01 5 Card Cash Default SM",
+    "audioLoader":
+    {
+        "yes": "Oui",
+        "no": "Non",
+        "confirm": "Voulez-vous du son ?"
+    },
+    "Paytable": {
+        "RTPvalue": "est de {@minRTP} %",
+        "RTPrange": "est compris entre {@minRTP} % et {@maxRTP} %",
+        "paybackTitle": "Remboursement escompté",
+        "paybackBody": "Pour ce jeu, le remboursement escompté théorique sur le long terme est de {RTP}."
+    },
+    "title": "5 Card Poker",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "Comment jouer ?",
+            "payTable": "Légende",
+            "price": "Mise",
+            "stake": "Mise",
+            "balance": "Balance",
+			"prizeDivision": "Légende",
+			"prizeValue": "Légende",
+			"approximatePrize": "Prix approximatifs restants",
+			"oddsPerPlay": "Chances par partie",
+			"overAllOdds": "Il y a globalement 1 chance sur {oddNum} de gagner un prix lors de chaque partie",
+			"availablePrices": "Points de prix disponibles :{prices}"
+        },
+        "Commercial":
+        {
+            "howToPlay": "Comment jouer ?",
+            "payTable": "Légende",
+            "price": "Mise",
+            "stake": "Mise",
+            "balance": "Balance"
+        },
+        "audio":
+        {
+            "on": "ON",
+            "off": "OFF",
+            "sound": "Son"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Erreur : 29000\n\nUne erreur interne s'est produite.\nQUITTEZ et relancez le jeu.",
+        "lostConnection": "Connexion perdue !"
+    },
+    "Game":
+    {
+        "demo": "DÉMO ",
+        "button_buy": "ACHETER",
+        "button_try": "DÉMO",
+        "button_play": "JOUER",
+        "button_continue": "CONTINUER",
+        "button_move2moneyGame": "ACHETER",
+        "button_autoPlay": "AUTOPLAY",
+        "button_payTable": "LÉGENDE",
+        "button_retry": "ACHETER",
+        "wager": "MISE",
+        "meter_wager": "MISE",
+        "balance": "BALANCE",
+        "wins": "GAIN",
+        "wins_demo": "GAIN DÉMO",
+        "message_nonWin": "DOMMAGE,\nPAS DE GAIN.",
+
+        "message_buyWin": "GAIN TOTAL",
+        "message_tryWin": "GAIN TOTAL DE DÉMO",
+
+        "message_close": "OK",
+        "button_exit": "QUITTER",
+        "session_timeout_warning_exit_button": "QUITTER",
+        "error_button_exit": "QUITTER",
+        "warning_button_continue": "CONTINUER",
+        "warning_button_exitGame": "QUITTER",
+        "warning_title": "WARNING",
+        "error_title": "ERREUR",
+        "win_up_to": "Gagnez jusqu'à ",
+        "win_up_to_mark": "!",
+
+         "tutorial_title_0": "COMMENT JOUER ?",
+        "tutorial_00_landscape": "Si 1 de « Vos mains » correspond\nà une « Main gagnante », vous gagnez le montant indiqué.\n\nAppuyez sur « Légende Mains gagnantes »\npour consulter les gains possibles.",
+        "tutorial_00_portrait": "Si 1 de « Vos mains » correspond\nà une « Main gagnante », vous gagnez\nle montant indiqué.\n\nAppuyez sur\n« Légende Mains gagnantes  »\npour consulter les gains possibles.",
+        "tutorial_title_1": "Mains gagnantes",
+        "tutorial_01_landscape": "Quinte flush royale – 10, Valet, Dame, Roi et As de la même couleur\n\nQuinte flush – Cinq cartes consécutives de la même couleur\n\nCarré – Quatre cartes de même valeur\n\nFull – Un brelan plus une paire",
+        "tutorial_01_portrait": "Quinte flush royale – 10, Valet, Dame, Roi et As de la même couleur\n\nQuinte flush – Cinq cartes consécutives de la même couleur\n\nCarré – Quatre cartes de même valeur\n\nFull – Un brelan plus une paire",
+        "tutorial_title_2": "Mains gagnantes",
+        "tutorial_02_landscape": "Couleur – Une combinaison de cinq cartes non consécutives de la même couleur\n\nQuinte – Cinq cartes consécutives de couleurs différentes\n\nBrelan – Trois cartes de même valeur\n\nDouble paire – n'importe quelle combinaison de deux paires",
+        "tutorial_02_portrait": "Couleur – Une combinaison de cinq cartes non consécutives de la même couleur\n\nQuinte – Cinq cartes consécutives de couleurs différentes\n\nBrelan – Trois cartes de même valeur\n\nDouble paire – n'importe quelle combinaison de deux paires",
+      "tutorial_title_3": "BONUS COULEUR",
+      "tutorial_03_landscape": "Trouvez un JETON D'OR pour accéder au jeu bonus COULEUR !\n\nChoisissez votre COULEUR PORTE-BONHEUR.\n\nRetournez les cartes : si au moins 4 cartes correspondent\nà votre COULEUR PORTE-BONHEUR, vous gagnez !",
+		"tutorial_03_portrait": "Trouvez un JETON D'OR pour accéder au jeu bonus COULEUR !\n\nChoisissez votre COULEUR PORTE-BONHEUR.\n\nRetournez les cartes : si au moins\n4 cartes correspondent\nà votre COULEUR PORTE-BONHEUR, vous gagnez !",
+      "tutorial_title_4": "TIRAGE MAIN DE LA CHANCE ",
+      "tutorial_04_landscape": "À la fin de chaque partie, la Main de la chance est tirée au sort !\n\n5 cartes sont révélées.\n\nSi au moins 2 cartes de la Main de la chance correspondent \n à 2 cartes dans une de « Vos mains », vous gagnez !",
+      "tutorial_04_portrait": "À la fin de chaque partie, la Main de la chance est tirée au sort !\n\n5 cartes sont révélées.\n\nSi au moins 2 cartes de la Main de la chance correspondent \n à 2 cartes dans une de « Vos mains », vous gagnez !",
+        "yourHandsInfo":"Vous gagnez si l'une de VOS MAINS correspond à une MAIN GAGNANTE !",
+        "yourHandsInfo_P": "Vous gagnez si l'une de VOS MAINS\ncorrespond à une MAIN GAGNANTE !",
+
+
+         "your_hands": "VOS MAINS",
+        "show_button_prize":"AFFICHER LES MAINS GAGNANTES",
+        "hide_button_prize":"MASQUER LES MAINS GAGNANTES",
+        "luckyBonusInfo":"Déclenche le jeu bonus\nCOULEUR !",
+        "luckyHandInfo":"Tirage de la MAIN DE LA CHANCE\nà la fin de chaque partie !",
+        "bonusWin":"Bonus Couleur - ",
+        "bonusWinHead":"   ",
+        "luckyHandWin":"Main de la chance - ",
+        "pocker_A":"Quinte Flush Royale",
+        "pocker_B":"Quinte Flush",
+        "pocker_C":"Carré",
+        "pocker_D":"Full",
+        "pocker_E":"Couleur",
+        "pocker_F":"Quinte",
+        "pocker_G":"Brelan",
+        "pocker_H":"Double paire",
+        "prizeContact":" - ",
+        "prizeTableInfo":" Si l'une de VOS MAINS correspond à une MAIN GAGNANTE, vous gagnez !",
+        "prizeTableInfo_P":" Si l'une de VOS MAINS correspond\nà une MAIN GAGNANTE, vous gagnez !",
+        "Disclaimer": "*Les images des mains gagnantes ne sont que des exemples",
+        "luckyBonus": "BONUS COULEUR",
+        "luckySUITS": "TIRAGE COULEUR PORTE-BONHEUR",
+
+
+         "pickInfo": "Choisissez une COULEUR PORTE-BONHEUR",
+        "pickInfo_P": "Choisissez une COULEUR PORTE-BONHEUR",
+        "pickInfoResult": "Votre COULEUR choisie est ",
+        "pickInfoResult_P": "Votre COULEUR choisie est\n",
+        "pocker_Spades":"PIQUE",
+        "pocker_Hearts":"CŒUR",
+        "pocker_Diamonds":"CARREAU",
+        "pocker_Clubs":"TRÈFLE",
+
+
+         "luckyBonusPickedInfo":"Cliquez sur chaque carte et découvrez au moins 4 {suit} pour gagner !",
+        "luckyBonusPickedInfo_P":"Cliquez sur chaque carte et découvrez au moins 4 {suit} pour gagner !",
+        "luckyBonusPrize":"Légende",
+
+
+        "match" : "Match ",
+
+         "luckyHand":"MAIN DE LA CHANCE",
+        "luckyHandBonusInfo":"Si au moins 2 cartes se\nretrouvent dans une de\nVOS MAINS, vous gagnez !",
+        "luckyHandBonusInfo_P":"Si au moins 2 cartes se retrouvent \ndans une de VOS MAINS, vous gagnez !",
+
+
+         "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Mise",
+        "prizeDescription":"Légende",
+        "prizeLuckyHand":"Correspondance Main de la chance ",
+        "prizeBonus":"Correspondance bonus Couleur ",
+
+
+         "paytableWager":"Mise : ",
+        "prizeValue": "gain",
+        "lucky": "CHANCE",
+        "multi":"x"
+
+    }
+}

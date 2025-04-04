@@ -1,0 +1,157 @@
+﻿{
+    "version": "11-18-2020 2:01PM 5 Card Cash Default SM",
+    "audioLoader":
+    {
+        "yes": "Tak",
+        "no": "Nie",
+        "confirm": "Czy włączyć dźwięk?"
+    },
+    "Paytable":
+    {
+        "RTPvalue": "wynosi {@minRTP}%",
+        "RTPrange": "wynosi od {@minRTP}% do {@maxRTP}%",
+        "paybackTitle": "Oczekiwany zwrot",
+        "paybackBody": "Długoterminowy, teoretycznie oczekiwany zwrot tej gry wynosi {RTP}."
+    },
+    "title": "5 Kart",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "Zasady gry",
+            "payTable": "Tabela wygranych",
+            "price": "Cena",
+            "stake": "Stawka",
+            "balance": "Saldo",
+            "prizeDivision": "Stopień wygranej",
+            "prizeValue": "Wartość wygranej",
+            "approximatePrize": "Pozostało do wygrania",
+            "oddsPerPlay": "Szansa na wygraną",
+            "overAllOdds": "Łączna szansa wygrania nagrody w każdej rozgrywce wynosi 1 do {oddNum}.",
+            "availablePrices": "Dostępne punkty nagrody: {prices}"
+        },
+        "Commercial":
+        {
+            "howToPlay": "Zasady gry",
+            "payTable": "Tabela wygranych",
+            "price": "Cena",
+            "stake": "Stawka",
+            "balance": "Saldo"
+        },
+        "audio":
+        {
+            "on": "Wł.",
+            "off": "Wył.",
+            "sound": "Dźwięk"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Błąd: 29000\n\n Wystąpił błąd wewnętrzny.\n WYJDŹ i uruchom ponownie grę.",
+        "lostConnection": "Utracono połączenie!"
+    },
+    "Game":
+    {
+        "demo": "DEMO ",
+        "button_buy": "PŁACĘ",
+        "button_try": "DEMO",
+        "button_play": "ZAGRAJ",
+        "button_continue": "KONTYNUUJ",
+        "button_move2moneyGame": "GRAJ ZA PIENIĄDZE",
+        "button_autoPlay": "AUTO",
+        "button_payTable": "TABELA WYGRANYCH",
+        "button_retry": "SPRÓBUJ PONOWNIE",
+        "wager": "OPŁATA ZA LOS",
+        "meter_wager": "OPŁATA ZA LOS",
+        "balance": "SALDO",
+        "wins": "WYGRANA",
+        "wins_demo": "WYGRANA DEMO",
+        "message_nonWin": "POWODZENIA NASTĘPNYM\nRAZEM",
+
+        "message_buyWin": "ŁĄCZNA WYGRANA",
+        "message_tryWin": "DZIĘKUJEMY ZA GRĘ! MOŻNA BYŁO WYGRAĆ",
+
+        "message_close": "OK",
+        "button_exit": "WYJDŹ",
+        "session_timeout_warning_exit_button": "WYJDŹ",
+        "error_button_exit": "WYJDŹ",
+        "warning_button_continue": "KONTYNUUJ",
+        "warning_button_exitGame": "WYJDŹ",
+        "warning_title": "OSTRZEŻENIE",
+        "error_title": "BŁĄD",
+        "win_up_to": "Wygraj do ",
+        "win_up_to_mark": "!",
+
+        "tutorial_title_0": "ZASADY GRY",
+        "tutorial_00_landscape": "Dopasuj dowolne UKŁADY do\nUKŁADÓW NAGRÓD, aby natychmiast wygrać.\n\nNaciśnij przycisk POKAŻ UKŁADY NAGRÓD\n, aby wyświetlić dostępne nagrody.",
+        "tutorial_00_portrait": "Dopasuj dowolne UKŁADY do\nUKŁADÓW NAGRÓD, aby natychmiast wygrać.\n\nNaciśnij przycisk POKAŻ UKŁADY NAGRÓD\n, aby wyświetlić dostępne nagrody.",
+        "tutorial_title_1": "UKŁADY NAGRÓD",
+        "tutorial_01_landscape": "Poker królewski – 10, walet, dama, król i as w tym samym kolorze\n\nPoker – dowolne pięć kart kolejnych rang w tym samym kolorze\n\nKareta – dowolne cztery karty tej samej rangi\n\nFull – dowolna trójka oraz jedna para",
+        "tutorial_01_portrait": "Poker królewski – 10, walet, dama, król i as w tym samym kolorze\n\nPoker – dowolne pięć kart kolejnych rang w tym samym kolorze\n\nKareta – dowolne cztery karty tej samej rangi\n\nFull – dowolna trójka oraz jedna para",
+        "tutorial_title_2": "UKŁADY NAGRÓD",
+        "tutorial_02_landscape": "Kolor – dowolne pięć kart w tym samym kolorze\n\nStrit – dowolne pięć kart kolejnych rang w różnych kolorach\n\nTrójka – dowolne trzy karty tej samej rangi\n\nDwie pary – dowolne dwie pary",
+        "tutorial_02_portrait": "Kolor – dowolne pięć kart w tym samym kolorze\n\nStrit – dowolne pięć kart kolejnych rang w różnych kolorach\n\nTrójka – dowolne trzy karty tej samej rangi\n\nDwie pary – dowolne dwie pary",
+        "tutorial_title_3": "BONUS SZCZĘŚLIWE KOLORY",
+        "tutorial_03_landscape": "Znajdź ZŁOTY ŻETON, aby uruchomić grę bonusową SZCZĘŚLIWE KOLORY!\n\nWybierz SZCZĘŚLIWY KOLOR.\n\nOdkryj wszystkie 12 kart – dopasuj co najmniej 4\nkarty do SZCZĘŚLIWEGO KOLORU, aby wygrać nagrody!",
+        "tutorial_03_portrait": "Znajdź ZŁOTY ŻETON, aby uruchomić grę bonusową SZCZĘŚLIWE KOLORY!\n\nWybierz SZCZĘŚLIWY KOLOR.\n\nOdkryj wszystkie 12 kart – dopasuj co najmniej 4\nkarty do SZCZĘŚLIWEGO KOLORU, aby wygrać nagrody!",
+        "tutorial_title_4": "LOSOWANIE SZCZĘŚLIWEGO UKŁADU",
+        "tutorial_04_landscape": "Po zakończeniu każdej gry zostanie wylosowany SZCZĘŚLIWY UKŁAD!\n\nZostanie odkrytych 5 kart.\n\nDopasuj co najmniej 2 karty\nw dowolnym ze SWOICH UKŁADÓW do SZCZĘŚLIWEGO UKŁADU, aby wygrać!",
+        "tutorial_04_portrait": "Po zakończeniu każdej gry zostanie wylosowany SZCZĘŚLIWY UKŁAD!\n\nZostanie odkrytych 5 kart.\n\nDopasuj co najmniej 2 karty\nw dowolnym ze SWOICH UKŁADÓW do SZCZĘŚLIWEGO UKŁADU, aby wygrać!",
+        "yourHandsInfo": "Wygraj natychmiast, jeśli dowolny z UKŁADÓW pasuje do UKŁADÓW NAGRÓD!",
+        "yourHandsInfo_P": "Wygraj natychmiast, jeśli dowolny\nz UKŁADÓW\npasuje do UKŁADÓW NAGRÓD!",
+
+        "your_hands": "TWOJE UKŁADY",
+        "show_button_prize": "POKAŻ UKŁADY NAGRÓD",
+        "hide_button_prize": "UKRYJ UKŁADY NAGRÓD",
+        "luckyBonusInfo": "Uruchamia grę bonusową\nSZCZĘŚLIWE KOLORY!",
+        "luckyHandInfo": "Odkrycie SZCZĘŚLIWEGO UKŁADU po zakończeniu\nkażdej gry!",
+        "bonusWin": "Szczęśliwe kolory – ",
+        "bonusWinHead": "   ",
+        "luckyHandWin": "Szczęśliwy układ – ",
+        "pocker_A": "Poker królewski",
+        "pocker_B": "Poker",
+        "pocker_C": "Kareta",
+        "pocker_D": "Full",
+        "pocker_E": "Kolor",
+        "pocker_F": "Strit",
+        "pocker_G": "Trójka",
+        "pocker_H": "Dwie pary",
+        "prizeContact": " - ",
+        "prizeTableInfo": "Wygraj natychmiast, jeśli dowolny z UKŁADÓW pasuje do UKŁADÓW NAGRÓD!",
+        "prizeTableInfo_P": "Wygraj natychmiast, jeśli dowolny\nz UKŁADÓW\npasuje do UKŁADÓW NAGRÓD!",
+        "Disclaimer": "*Obrazy układów nagród są tylko przykładami",
+        "luckyBonus": "BONUS SZCZĘŚLIWE KOLORY",
+        "luckySUITS": "SZCZĘŚLIWE KOLORY",
+
+        "pickInfo": "Wybierz SZCZĘŚLIWY KOLOR, aby rozpocząć bonus",
+        "pickInfo_P": "Wybierz SZCZĘŚLIWY KOLOR,\naby rozpocząć bonus",
+        "pickInfoResult": "Wybrany KOLOR to ",
+        "pickInfoResult_P": "Wybrany KOLOR to\n",
+        "pocker_Spades": "PIK",
+        "pocker_Hearts": "KIER",
+        "pocker_Diamonds": "KARO",
+        "pocker_Clubs": "TREFL",
+
+        "luckyBonusPickedInfo": "Kliknij każdą kartę i odkryj co najmniej 4 {suit}, aby wygrać nagrody",
+        "luckyBonusPickedInfo_P": "Kliknij każdą kartę i odkryj co najmniej 4 {suit},\naby wygrać nagrody",
+        "luckyBonusPrize": "NAGRODY",
+
+        "match": "Dopasuj ",
+
+        "luckyHand": "SZCZĘŚLIWY UKŁAD",
+        "luckyHandBonusInfo": "Dopasuj karty\ndo dowolnych UKŁADÓW,\naby wygrać!",
+        "luckyHandBonusInfo_P": "Dopasuj karty do dowolnych UKŁADÓW, aby wygrać!",
+
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Stopień wygranej",
+        "prizeDescription": "Opis",
+        "prizeLuckyHand": "Dopasowanie szczęśliwego układu ",
+        "prizeBonus": "Dopasowanie bonusu szczęśliwych kolorów ",
+
+        "paytableWager": "Opłata za LOS: ",
+        "prizeValue": "Wartość wygranej",
+        "lucky": "SZCZĘŚLIWY",
+        "multi": "x"
+    }
+}

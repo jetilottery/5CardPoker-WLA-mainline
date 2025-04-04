@@ -1,0 +1,158 @@
+﻿{
+    "version": "18/11/2020 14:01 5 Card Cash Default SM",
+    "audioLoader":
+    {
+        "yes": "Sì",
+        "no": "No",
+        "confirm": "Vuoi attivare l'audio?"
+    },
+    "Paytable": {
+        "RTPvalue": "è pari al {@minRTP}%",
+        "RTPrange": "è compreso tra il {@minRTP}% e il {@maxRTP}%",
+        "paybackTitle": "Ritorno previsto",
+        "paybackBody": "Per questo gioco, il ritorno teorico previsto sul lungo termine è pari a {RTP}."
+    },
+    "title": "5 Card Poker",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "Aiuto",
+            "payTable": "Tabella dei pagamenti",
+            "price": "Prezzo",
+            "stake": "Puntata",
+            "balance": "Saldo",
+			"prizeDivision": "Divisione dei premi",
+			"prizeValue": "Valore del Premio",
+			"approximatePrize": "Premi approssimativi rimanenti",
+			"oddsPerPlay": "Probabilità per partita",
+			"overAllOdds": "Vi è 1 possibilità su {oddNum} di vincere un premio in ogni partita",
+			"availablePrices": "Punti prezzo disponibili: {prices}"
+        },
+        "Commercial":
+        {
+            "howToPlay": "Aiuto",
+            "payTable": "Tabella dei pagamenti",
+            "price": "Prezzo",
+            "stake": "Puntata",
+            "balance": "Saldo"
+        },
+        "audio":
+        {
+            "on": "On",
+            "off": "Off",
+            "sound": "Audio"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Errore:29000\n\nSi è verificato un errore interno.\nESCI e riavvia il gioco.",
+        "lostConnection": "Connessione persa!"
+    },
+    "Game":
+    {        
+        "demo": "PROVA ",
+        "button_buy": "ACQUISTA",
+        "button_try": "PROVA",
+        "button_play": "GIOCA",
+        "button_continue": "CONTINUA",
+        "button_move2moneyGame": "GIOCA CON DENARO REALE",
+        "button_autoPlay": "MOSTRA TUTTI",
+        "button_payTable": "TABELLA DEI PAGAMENTI",
+        "button_retry": "RIPROVA",
+        "wager": "PREZZO DEL BIGLIETTO",
+        "meter_wager": "PREZZO DEL BIGLIETTO",
+        "balance": "SALDO",
+        "wins": "VINCI",
+        "wins_demo": "VINCITA DEMO",
+        "message_nonWin": "SARAI PIÙ FORTUNATO\nLA PROSSIMA VOLTA",
+
+        "message_buyWin": "VINCITA TOTALE",
+        "message_tryWin": "VINCITA DEMO TOTALE",
+
+        "message_close": "OK",
+        "button_exit": "ESCI",
+        "session_timeout_warning_exit_button": "ESCI",
+        "error_button_exit": "ESCI",
+        "warning_button_continue": "CONTINUA",
+        "warning_button_exitGame": "ESCI",
+        "warning_title": "ATTENZIONE",
+        "error_title": "ERRORE",
+        "win_up_to": "Vinci fino a ",
+        "win_up_to_mark": "!",
+
+        "tutorial_title_0": "COME GIOCARE",
+        "tutorial_00_landscape": "Abbina una qualsiasi delle TUE MANI alle\nMANI DEI PREMI per ottenere vincite immediate.\n\nPremi MOSTRA MANI DEI PREMI\nper visualizzare i premi disponibili.",
+        "tutorial_00_portrait": "Abbina una qualsiasi delle TUE MANI alle\nMANI DEI PREMI per ottenere vincite immediate.\n\nPremi MOSTRA MANI DEI PREMI\nper visualizzare i premi disponibili.",
+       "tutorial_title_1": "MANI DEI PREMI",
+        "tutorial_01_landscape": "Scala reale: 10, Jack, Regina, Re e Asso dello stesso seme\n\nScala a colore: cinque carta consecutivi dello stesso seme\n\nPoker: quattro carta dello stesso valore\n\nFull: qualsiasi combinazione tre di un tipo più una coppia",
+        "tutorial_01_portrait": "Scala reale: 10, Jack, Regina, Re e Asso dello stesso seme\n\nScala a colore: cinque carta consecutivi dello stesso seme\n\nPoker: quattro carta dello stesso valore\n\nFull: qualsiasi combinazione tre di un tipo più una coppia",
+        "tutorial_title_2": "MANI DEI PREMI",
+        "tutorial_02_landscape": "Colore: cinque Simboli Carta non consecutivi dello stesso seme\n\nScala: cinque carta consecutivi\n\nTris: tre carta dello stesso valore\n\nDoppia Coppia: due coppie di qualsiasi tipo",
+        "tutorial_02_portrait": "Colore: cinque carta non consecutivi dello stesso seme\n\nScala: cinque carta consecutivi\n\nTris: tre carta dello stesso valore\n\nDoppia Coppia: due coppie di qualsiasi tipo",
+        "tutorial_title_3": "BONUS SEMI FORTUNATI",        
+        "tutorial_03_landscape": "Trova una FICHE DORATA per attivare il gioco bonus SEMI FORTUNATI!\n\nScegli il tuo SEME FORTUNATO\n\nRivela tutte le 12 carte - Abbina 4 o più carte\nal tuo SEME FORTUNATO per vincere i premi! ",
+        "tutorial_03_portrait": "Trova una FICHE DORATA per attivare\nil gioco bonus SEMI FORTUNATI!\n\nScegli il tuo SEME FORTUNATO\n\nRivela tutte le 12 carte –\nAbbina 4 o più carte\nal tuo SEME FORTUNATO per vincere i premi! ",
+		"tutorial_title_4": " ESTRAZIONE MANO FORTUNATA ",        
+        "tutorial_04_landscape": "Al termine di ogni partita viene estratta una MANO FORTUNATA!\n\nVengono estratte 5 carte\n\nAbbina 2 o più carte all'interno di una qualsiasi\ndelle TUE MANI alla mano dell'ESTRAZIONE FORTUNATA per vincere!",
+        "tutorial_04_portrait": "Al termine di ogni partita\nviene estratta una MANO FORTUNATA!\n\nVengono estratte 5 carte\n\nAbbina 2 o più carte all'interno di una qualsiasi\ndelle TUE MANI\nalla mano dell'ESTRAZIONE FORTUNATA per vincere!",
+        
+        "yourHandsInfo":"Vinci subito se una delle TUE MANI corrisponde alle MANI DEI PREMI!",
+        "yourHandsInfo_P":"Vinci subito se una delle\nTUE MANI corrisponde\nalle MANI DEI PREMI!",
+        
+        "your_hands": "LE TUE MANI",
+        "show_button_prize":"MOSTRA LE MANI DEI PREMI",
+        "hide_button_prize":"NASCONDI LE MANI DEI PREMI",
+        "luckyBonusInfo":"Attiva il gioco bonus SEMI FORTUNATI!",
+        "luckyHandInfo":"Estrazione MANO FORTUNATA al termine\ndi ogni partita!",
+        "bonusWin":"Semi fortunati - ",
+        "bonusWinHead":"   ",
+        "luckyHandWin":"Mano fortunata - ",
+
+        "pocker_A":"Scala Reale",
+        "pocker_B":"Scala a Colore",
+        "pocker_C":"Poker",
+        "pocker_D":"Full",
+        "pocker_E":"Colore",
+        "pocker_F":"Scala",
+        "pocker_G":"Tris",
+        "pocker_H":"Doppia Coppia",
+        "prizeContact":" - ",
+        "prizeTableInfo":"Vinci subito se una delle TUE MANI corrisponde alle MANI DEI PREMI!",
+        "prizeTableInfo_P":"Vinci subito se una delle\nTUE MANI corrisponde\nalle MANI DEI PREMI!",
+        "Disclaimer": "*Le immagini delle Mani dei Premi\nsono soltanto esemplificative",
+        "luckyBonus": "BONUS SEMI FORTUNATI",
+        "luckySUITS": "SEMI FORTUNATI",
+
+        "pickInfo": "Scegli un SEME FORTUNATO per avviare il Bonus",
+        "pickInfo_P": "Scegli un SEME FORTUNATO\nper avviare il Bonus",
+        "pickInfoResult": "Il SEME da te scelto è ",
+        "pickInfoResult_P": "Il SEME da te scelto è\n",
+        "pocker_Spades":"PICCHE",
+        "pocker_Hearts":"CUORI",
+        "pocker_Diamonds":"QUADRI",
+        "pocker_Clubs":"FIORI",
+
+       "luckyBonusPickedInfo":"Fai clic su ciascuna carta e rivela 4 o più {suit} per vincere i premi",
+        "luckyBonusPickedInfo_P":"Fai clic su ciascuna carta e rivela 4 o più {suit}\nper vincere i premi",
+        "luckyBonusPrize":"PREMI",
+
+        "match" : "Abbina ",
+
+        "luckyHand":"MANO FORTUNATA",
+        "luckyHandBonusInfo":"Abbina le carte\na una delle TUE MANI\nper vincere!",
+        "luckyHandBonusInfo_P":"Abbina le carte a una delle TUE MANI per vincere!",
+
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Livello del Premio",
+        "prizeDescription":"Descrizione",
+        "prizeLuckyHand":"Abbinamento Mano Fortunata ",
+        "prizeBonus":"Abbinamento Bonus Semi Fortunati ",
+
+        "paytableWager":"Prezzo del biglietto: ",
+        "prizeValue": "Valore del Premio",
+		"lucky": "FORTUNATA",
+        "multi":"x"
+    }
+}

@@ -1,0 +1,169 @@
+{
+    "version": "12/20/2024 5h01 5 Card Cash Défaut SM",
+    "audioLoader":
+    {
+        "yes": "Yes",
+        "no": "No",
+        "confirm": "Would you like sound?"
+    },
+    "Paytable":
+    {
+        "RTPvalue": "is {@minRTP}%",
+        "RTPrange": "is from {@minRTP}% to {@maxRTP}%",
+        "paybackTitle": "Expected Payback",
+        "paybackBody": "For this game, the long-term, theoretically-expected payback {RTP}.",
+        "subheading": "Ticket Cost: {ticketCost}",
+        "prizeLevel": "Prize Level",
+        "prizeValue": "Prize Value",
+        "overallChances": "There is a 1 in {odds} overall chance of winning a prize on each play.",
+        "prizeDivision": "Prize Division",
+        "prizeRemaining": "Approximate Prize Remaining",
+        "oddsPerPlay": "Odds Per Play"
+
+    },
+    "title": "5 Card Poker",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "name": "5 Card Poker Paytable",
+            "howToPlay": "Help File",
+            "payTable": "Paytable",
+            "price": "Price",
+            "stake": "Stake",
+            "balance": "Balance",
+            "prizeDivision": "Prize Division",
+            "prizeValue": "Prize Value",
+            "approximatePrize": "Approximate Prizes Remaining",
+            "oddsPerPlay": "Odds Per Play",
+            "overAllOdds": "There is a 1 in {oddNum} overall chance of winning a prize on each play.",
+            "availablePrices": "Available Price Points: {prices}"
+        },
+        "Commercial":
+        {
+            "name": "5 Card Poker Paytable",
+            "howToPlay": "Help File",
+            "payTable": "Paytable",
+            "price": "Price",
+            "stake": "Stake",
+            "balance": "Balance"
+        },
+        "audio":
+        {
+            "on": "On",
+            "off": "Off",
+            "sound": "Sound"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Error:29000\n\nThere has been an internal error.\nEXIT and relaunch the game.",
+        "lostConnection": "Lost Connection!"
+    },
+    "Game":
+    {
+        "demo": "",
+        "button_buy": "BUY",
+        "button_try": "TRY",
+        "button_play": "PLAY",
+        "button_continue": "CONTINUE",
+        "button_move2moneyGame": "MOVE TO MONEY",
+        "button_autoPlay": "REVEAL ALL",
+        "button_payTable": "PAYTABLE",
+        "button_retry": "RETRY",
+        "wager": "TICKET COST",
+        "meter_wager": "TICKET COST",
+        "meter_wager_demo": "TICKET COST TRY",
+        "balance": "BALANCE",
+        "wins": "WIN",
+        "wins_demo": "DEMO WIN",
+        "message_nonWin": "BETTER LUCK\nNEXT TIME",
+
+        "message_buyWin": "CONGRATULATIONS!\nYOU HAVE WON",
+        "message_tryWin": "THANKS FOR PLAYING!\nYOU COULD HAVE WON",
+
+        "message_close": "OK",
+        "button_exit": "EXIT",
+        "session_timeout_warning_exit_button": "EXIT",
+        "error_button_exit": "EXIT",
+        "warning_button_continue": "CONTINUE",
+        "warning_button_exitGame": "EXIT",
+        "warning_title": "WARNING",
+        "error_title": "ERROR",
+        "win_up_to": "Win up to ",
+        "win_up_to_mark": "!",
+
+        "tutorial_title_0": "HOW TO PLAY",
+        "tutorial_00_landscape": "Match any of YOUR HANDS to\nPRIZE HANDS to win instantly.\n\nPress SHOW PRIZE HANDS\nto view the prizes available.",
+        "tutorial_00_portrait": "Match any of YOUR HANDS to\nPRIZE HANDS to win instantly.\n\nPress SHOW PRIZE HANDS\nto view the prizes available.",
+        "tutorial_title_1": "PRIZE HANDS",
+        "tutorial_01_landscape": "Royal Flush – 10, Jack, Queen, King and Ace of the same suit\n\nStraight Flush – Any five consecutively ranked cards of the same suit\n\nFour of a Kind – Any four cards of the same rank\n\nFull House – Any Three of a Kind plus One Pair",
+        "tutorial_01_portrait": "Royal Flush – 10, Jack, Queen, King and Ace of the same suit\n\nStraight Flush – Any five consecutively ranked cards of the same suit\n\nFour of a Kind – Any four cards of the same rank\n\nFull House – Any Three of a Kind plus One Pair",
+        "tutorial_title_2": "PRIZE HANDS",
+        "tutorial_02_landscape": "Flush – Any five non-consecutive cards of the same suit\n\nStraight – Any five consecutively ranked cards of different suits\n\nThree of a Kind – Any three cards of the same rank\n\nTwo Pairs – Any two pairs",
+        "tutorial_02_portrait": "Flush – Any five non-consecutive cards of the same suit\n\nStraight – Any five consecutively ranked cards of different suits\n\nThree of a Kind – Any three cards of the same rank\n\nTwo Pairs – Any two pairs",
+        "tutorial_title_3": "LUCKY SUITS BONUS",
+        "tutorial_03_landscape": "Find a GOLDEN CHIP to trigger the LUCKY SUITS bonus game!\n\nChoose your LUCKY SUIT.\n\nReveal all 12 cards– Match 4 or more\ncards to your LUCKY SUIT to win prizes!",
+        "tutorial_03_portrait": "Find a GOLDEN CHIP to trigger the LUCKY SUITS bonus game!\n\nChoose your LUCKY SUIT.\n\nReveal all 12 cards– Match 4 or more\ncards to your LUCKY SUIT to win prizes!",
+        "tutorial_title_4": "LUCKY HAND DRAW",
+        "tutorial_04_landscape": "At the end of each game there will be a LUCKY HAND draw!\n\n5 cards will be revealed.\n\nMatch 2 or more cards within\nany individual YOUR HAND to the LUCKY DRAW hand to win!",
+        "tutorial_04_portrait": "At the end of each game there will be a LUCKY HAND draw!\n\n5 cards will be revealed.\n\nMatch 2 or more cards within\nany individual YOUR HAND to the LUCKY DRAW hand to win!",
+        "yourHandsInfo": "Win instantly if any of YOUR HANDS match the PRIZE HANDS!",
+        "yourHandsInfo_P": "Win instantly if any\nof YOUR HANDS\nmatch the PRIZE HANDS!",
+
+        "your_hands": "YOUR HANDS",
+        "show_button_prize": "SHOW PRIZE HANDS",
+        "hide_button_prize": "HIDE PRIZE HANDS",
+        "luckyBonusInfo": "Triggers the LUCKY SUITS\nbonus game!",
+        "luckyHandInfo": "LUCKY HAND draw at the end\nof each game!",
+        "bonusWin": "Lucky Suits - ",
+        "bonusWinHead": "   ",
+        "luckyHandWin": "Lucky Hand - ",
+
+        "pocker_A": "Royal Flush",
+        "pocker_B": "Straight Flush",
+        "pocker_C": "Four of a Kind",
+        "pocker_D": "Full House",
+        "pocker_E": "Flush",
+        "pocker_F": "Straight",
+        "pocker_G": "Three of a Kind",
+        "pocker_H": "Two Pairs",
+        "prizeContact": " - ",
+        "prizeTableInfo": "Win instantly if any of YOUR HANDS match the PRIZE HANDS!",
+        "prizeTableInfo_P": "Win instantly if any\nof YOUR HANDS\nmatch the PRIZE HANDS!",
+        "Disclaimer": "*Prize Hand images are examples only",
+        "luckyBonus": "LUCKY SUITS BONUS",
+        "luckySUITS": "LUCKY SUITS",
+
+        "pickInfo": "Choose a LUCKY SUIT to start Bonus",
+        "pickInfo_P": "Choose a LUCKY SUIT\nto start Bonus",
+        "pickInfoResult": "Your chosen SUIT is ",
+        "pickInfoResult_P": "Your chosen SUIT is\n",
+        "pocker_Spades": "SPADES",
+        "pocker_Hearts": "HEARTS",
+        "pocker_Diamonds": "DIAMONDS",
+        "pocker_Clubs": "CLUBS",
+
+        "luckyBonusPickedInfo": "Click on each card and reveal 4 or more {suit} to win prizes",
+        "luckyBonusPickedInfo_P": "Click on each card and reveal\n4 or more {suit} to win prizes",
+        "luckyBonusPrize": "PRIZES",
+
+        "match": "Match ",
+
+        "luckyHand": "LUCKY HAND",
+        "luckyHandBonusInfo": "Match Cards\nto any of YOUR HANDS\nto win!",
+        "luckyHandBonusInfo_P": "Match Cards to any of YOUR HANDS to win!",
+
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Prize Level",
+        "prizeDescription": "Description",
+        "prizeLuckyHand": "Lucky Hand Match ",
+        "prizeBonus": "Lucky Suits Bonus Match ",
+
+        "paytableWager": "Ticket Cost: ",
+        "prizeValue": "Prize Value",
+        "lucky": "LUCKY",
+        "multi": "x"
+    }
+}

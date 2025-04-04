@@ -1,0 +1,253 @@
+
+totalWin.jpg
+size: 1750,1937
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SOURCE/nonTrans/winParticles/winParticles_00
+  rotate: false
+  xy: 2, 10
+  size: 871, 482
+  orig: 1440, 600
+  offset: 273, 57
+  index: -1
+SOURCE/nonTrans/winParticles/winParticles_01
+  rotate: false
+  xy: 876, 973
+  size: 872, 481
+  orig: 1440, 600
+  offset: 272, 57
+  index: -1
+SOURCE/nonTrans/winParticles/winParticles_02
+  rotate: false
+  xy: 2, 494
+  size: 872, 481
+  orig: 1440, 600
+  offset: 272, 57
+  index: -1
+SOURCE/nonTrans/winParticles/winParticles_03
+  rotate: false
+  xy: 876, 490
+  size: 872, 481
+  orig: 1440, 600
+  offset: 272, 57
+  index: -1
+SOURCE/nonTrans/winParticles/winParticles_04
+  rotate: false
+  xy: 2, 977
+  size: 872, 480
+  orig: 1440, 600
+  offset: 272, 57
+  index: -1
+SOURCE/nonTrans/winParticles/winParticles_05
+  rotate: false
+  xy: 876, 1456
+  size: 872, 479
+  orig: 1440, 600
+  offset: 272, 57
+  index: -1
+SOURCE/nonTrans/winParticles/winParticles_06
+  rotate: false
+  xy: 2, 1459
+  size: 872, 476
+  orig: 1440, 600
+  offset: 272, 58
+  index: -1
+SOURCE/nonTrans/winParticles/winParticles_07
+  rotate: false
+  xy: 875, 2
+  size: 871, 486
+  orig: 1440, 600
+  offset: 273, 44
+  index: -1
+
+totalWin2.jpg
+size: 1801,1981
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SOURCE/nonTrans/winParticles/winParticles_15
+  rotate: false
+  xy: 887, 2
+  size: 865, 538
+  orig: 1440, 600
+  offset: 276, 30
+  index: -1
+SOURCE/nonTrans/winParticles/winParticles_19
+  rotate: false
+  xy: 2, 2
+  size: 883, 538
+  orig: 1440, 600
+  offset: 275, 31
+  index: -1
+SOURCE/nonTrans/winParticles/winParticles_20
+  rotate: true
+  xy: 1067, 555
+  size: 891, 538
+  orig: 1440, 600
+  offset: 274, 32
+  index: -1
+SOURCE/nonTrans/winParticles/winParticles_21
+  rotate: false
+  xy: 2, 1443
+  size: 896, 536
+  orig: 1440, 600
+  offset: 273, 33
+  index: -1
+SOURCE/nonTrans/winParticles/winParticles_22
+  rotate: true
+  xy: 2, 543
+  size: 898, 534
+  orig: 1440, 600
+  offset: 273, 33
+  index: -1
+SOURCE/nonTrans/winParticles/winParticles_23
+  rotate: false
+  xy: 900, 1448
+  size: 899, 531
+  orig: 1440, 600
+  offset: 273, 35
+  index: -1
+SOURCE/nonTrans/winParticles/winParticles_24
+  rotate: true
+  xy: 538, 542
+  size: 899, 527
+  orig: 1440, 600
+  offset: 273, 36
+  index: -1
+
+totalWin3.jpg
+size: 1774,1582
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SOURCE/nonTrans/winParticles/winParticles_11
+  rotate: false
+  xy: 902, 1054
+  size: 870, 526
+  orig: 1440, 600
+  offset: 273, 31
+  index: -1
+SOURCE/nonTrans/winParticles/winParticles_12
+  rotate: false
+  xy: 900, 522
+  size: 869, 530
+  orig: 1440, 600
+  offset: 274, 30
+  index: -1
+SOURCE/nonTrans/winParticles/winParticles_14
+  rotate: false
+  xy: 2, 2
+  size: 867, 537
+  orig: 1440, 600
+  offset: 275, 30
+  index: -1
+SOURCE/nonTrans/winParticles/winParticles_25
+  rotate: false
+  xy: 2, 1058
+  size: 898, 522
+  orig: 1440, 600
+  offset: 274, 37
+  index: -1
+SOURCE/nonTrans/winParticles/winParticles_26
+  rotate: false
+  xy: 2, 541
+  size: 896, 515
+  orig: 1440, 600
+  offset: 275, 41
+  index: -1
+SOURCE/nonTrans/winParticles/winParticles_27
+  rotate: false
+  xy: 871, 26
+  size: 894, 494
+  orig: 1440, 600
+  offset: 275, 45
+  index: -1
+
+totalWin4.jpg
+size: 1904,1863
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SOURCE/nonTrans/winParticles/winParticles_08
+  rotate: false
+  xy: 2, 874
+  size: 871, 492
+  orig: 1440, 600
+  offset: 273, 35
+  index: -1
+SOURCE/nonTrans/winParticles/winParticles_09
+  rotate: false
+  xy: 894, 875
+  size: 871, 494
+  orig: 1440, 600
+  offset: 273, 33
+  index: -1
+SOURCE/nonTrans/winParticles/winParticles_10
+  rotate: true
+  xy: 2, 2
+  size: 870, 497
+  orig: 1440, 600
+  offset: 273, 31
+  index: -1
+SOURCE/nonTrans/winParticles/winParticles_13
+  rotate: true
+  xy: 501, 4
+  size: 868, 535
+  orig: 1440, 600
+  offset: 274, 30
+  index: -1
+SOURCE/nonTrans/winParticles/winParticles_16
+  rotate: false
+  xy: 1038, 334
+  size: 864, 539
+  orig: 1440, 600
+  offset: 276, 30
+  index: -1
+SOURCE/nonTrans/winParticles/winParticles_28
+  rotate: false
+  xy: 2, 1368
+  size: 890, 493
+  orig: 1440, 600
+  offset: 274, 46
+  index: -1
+SOURCE/nonTrans/winParticles/winParticles_29
+  rotate: false
+  xy: 894, 1371
+  size: 885, 490
+  orig: 1440, 600
+  offset: 273, 49
+  index: -1
+
+totalWin5.jpg
+size: 1729,543
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SOURCE/nonTrans/winParticles/winParticles_17
+  rotate: false
+  xy: 2, 3
+  size: 863, 538
+  orig: 1440, 600
+  offset: 276, 31
+  index: -1
+SOURCE/nonTrans/winParticles/winParticles_18
+  rotate: false
+  xy: 867, 2
+  size: 860, 539
+  orig: 1440, 600
+  offset: 276, 31
+  index: -1
+
+totalWin.png
+size: 764,492
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SOURCE/Trans/glow_00
+  rotate: false
+  xy: 2, 2
+  size: 760, 488
+  orig: 1440, 600
+  offset: 340, 58
+  index: -1

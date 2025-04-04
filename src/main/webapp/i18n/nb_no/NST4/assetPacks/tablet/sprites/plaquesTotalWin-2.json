@@ -1,0 +1,32 @@
+{"frames": {
+
+"suitParticles_spin1.png":
+{
+	"frame": {"x":1,"y":1,"w":323,"h":339},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":180,"y":25,"w":323,"h":339},
+	"sourceSize": {"w":720,"h":405}
+},
+"suitParticles_spin2.png":
+{
+	"frame": {"x":1,"y":342,"w":326,"h":327},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":195,"y":44,"w":326,"h":327},
+	"sourceSize": {"w":720,"h":405}
+}},
+"animations": {
+	"suitParticles_spin": ["suitParticles_spin1.png","suitParticles_spin2.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "plaquesTotalWin-2.png",
+	"format": "RGBA8888",
+	"size": {"w":328,"h":670},
+	"scale": "1",
+	"related_multi_packs": [ "plaquesTotalWin-0.json", "plaquesTotalWin-1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:7d1f992693aaeb64e32bfd9e81fc4ad4:da974d1dcd3b5b00bcbc5c94b1870d68:971e36cc209df77f65fd74ffbbe092bf$"
+}
+}

@@ -1,0 +1,13 @@
+﻿{
+    "dropShadow": true,
+    "dropShadowAngle": 1.5,
+    "dropShadowColor": "white",
+    "dropShadowDistance": 1,
+    "fill": "#000729",
+    "fillGradientStops": [
+        1
+    ],
+    "fontSize": 50,
+    "fontWeight": "bold",
+    "strokeThickness": 1
+}

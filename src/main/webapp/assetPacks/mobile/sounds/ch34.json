@@ -1,0 +1,21 @@
+{
+  "urls": [
+    "ch34.ogg",
+    "ch34.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "FinalPrizeChime": [
+      1050,
+      2200
+    ],
+    "UI_Click": [
+      4100,
+      1038.2539682539687
+    ]
+  }
+}

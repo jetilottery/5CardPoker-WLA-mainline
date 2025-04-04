@@ -1,0 +1,318 @@
+
+chipAnims.jpg
+size: 273,273
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/starBurst
+  rotate: false
+  xy: 2, 2
+  size: 269, 269
+  orig: 288, 288
+  offset: 9, 9
+  index: -1
+
+chipAnims2.jpg
+size: 1637,352
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/lightSweep/lightSweep_03
+  rotate: false
+  xy: 1600, 66
+  size: 32, 40
+  orig: 320, 320
+  offset: 69, 202
+  index: -1
+nonTrans/lightSweep/lightSweep_04
+  rotate: true
+  xy: 1492, 8
+  size: 63, 78
+  orig: 320, 320
+  offset: 61, 177
+  index: -1
+nonTrans/lightSweep/lightSweep_05
+  rotate: true
+  xy: 1415, 171
+  size: 83, 101
+  orig: 320, 320
+  offset: 58, 159
+  index: -1
+nonTrans/lightSweep/lightSweep_06
+  rotate: true
+  xy: 1518, 155
+  size: 99, 117
+  orig: 320, 320
+  offset: 57, 146
+  index: -1
+nonTrans/lightSweep/lightSweep_07
+  rotate: false
+  xy: 1019, 24
+  size: 114, 131
+  orig: 320, 320
+  offset: 56, 133
+  index: -1
+nonTrans/lightSweep/lightSweep_08
+  rotate: false
+  xy: 174, 2
+  size: 126, 143
+  orig: 320, 320
+  offset: 56, 121
+  index: -1
+nonTrans/lightSweep/lightSweep_09
+  rotate: true
+  xy: 302, 7
+  size: 138, 155
+  orig: 320, 320
+  offset: 56, 110
+  index: -1
+nonTrans/lightSweep/lightSweep_10
+  rotate: true
+  xy: 729, 4
+  size: 149, 166
+  orig: 320, 320
+  offset: 55, 100
+  index: -1
+nonTrans/lightSweep/lightSweep_11
+  rotate: true
+  xy: 1316, 3
+  size: 161, 174
+  orig: 320, 320
+  offset: 54, 92
+  index: -1
+nonTrans/lightSweep/lightSweep_12
+  rotate: false
+  xy: 1244, 166
+  size: 169, 184
+  orig: 320, 320
+  offset: 55, 83
+  index: -1
+nonTrans/lightSweep/lightSweep_13
+  rotate: false
+  xy: 900, 157
+  size: 175, 193
+  orig: 320, 320
+  offset: 58, 75
+  index: -1
+nonTrans/lightSweep/lightSweep_14
+  rotate: false
+  xy: 546, 151
+  size: 179, 199
+  orig: 320, 320
+  offset: 62, 68
+  index: -1
+nonTrans/lightSweep/lightSweep_15
+  rotate: false
+  xy: 2, 147
+  size: 182, 203
+  orig: 320, 320
+  offset: 67, 62
+  index: -1
+nonTrans/lightSweep/lightSweep_16
+  rotate: false
+  xy: 186, 147
+  size: 180, 203
+  orig: 320, 320
+  offset: 75, 58
+  index: -1
+nonTrans/lightSweep/lightSweep_17
+  rotate: false
+  xy: 368, 150
+  size: 176, 200
+  orig: 320, 320
+  offset: 83, 56
+  index: -1
+nonTrans/lightSweep/lightSweep_18
+  rotate: false
+  xy: 727, 155
+  size: 171, 195
+  orig: 320, 320
+  offset: 92, 54
+  index: -1
+nonTrans/lightSweep/lightSweep_19
+  rotate: false
+  xy: 1077, 161
+  size: 165, 189
+  orig: 320, 320
+  offset: 100, 54
+  index: -1
+nonTrans/lightSweep/lightSweep_20
+  rotate: true
+  xy: 1135, 4
+  size: 155, 179
+  orig: 320, 320
+  offset: 110, 55
+  index: -1
+nonTrans/lightSweep/lightSweep_21
+  rotate: true
+  xy: 2, 2
+  size: 143, 170
+  orig: 320, 320
+  offset: 121, 56
+  index: -1
+nonTrans/lightSweep/lightSweep_22
+  rotate: true
+  xy: 567, 18
+  size: 131, 160
+  orig: 320, 320
+  offset: 133, 56
+  index: -1
+nonTrans/lightSweep/lightSweep_23
+  rotate: false
+  xy: 897, 4
+  size: 120, 149
+  orig: 320, 320
+  offset: 144, 57
+  index: -1
+nonTrans/lightSweep/lightSweep_24
+  rotate: false
+  xy: 459, 10
+  size: 106, 138
+  orig: 320, 320
+  offset: 157, 57
+  index: -1
+nonTrans/lightSweep/lightSweep_25
+  rotate: true
+  xy: 1492, 256
+  size: 94, 123
+  orig: 320, 320
+  offset: 168, 59
+  index: -1
+nonTrans/lightSweep/lightSweep_26
+  rotate: true
+  xy: 1492, 73
+  size: 80, 106
+  orig: 320, 320
+  offset: 181, 62
+  index: -1
+nonTrans/lightSweep/lightSweep_27
+  rotate: false
+  xy: 1415, 268
+  size: 63, 82
+  orig: 320, 320
+  offset: 197, 67
+  index: -1
+nonTrans/lightSweep/lightSweep_28
+  rotate: false
+  xy: 1600, 108
+  size: 34, 45
+  orig: 320, 320
+  offset: 219, 80
+  index: -1
+
+chipAnims3.jpg
+size: 1145,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/particleBurst/particleBurst_00
+  rotate: false
+  xy: 2, 11
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/particleBurst/particleBurst_13
+  rotate: false
+  xy: 2, 11
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/particleBurst/particleBurst_01
+  rotate: false
+  xy: 621, 24
+  size: 54, 55
+  orig: 320, 320
+  offset: 134, 129
+  index: -1
+nonTrans/particleBurst/particleBurst_02
+  rotate: false
+  xy: 544, 2
+  size: 75, 77
+  orig: 320, 320
+  offset: 121, 118
+  index: -1
+nonTrans/particleBurst/particleBurst_03
+  rotate: false
+  xy: 670, 108
+  size: 99, 101
+  orig: 320, 320
+  offset: 108, 107
+  index: -1
+nonTrans/particleBurst/particleBurst_04
+  rotate: false
+  xy: 544, 81
+  size: 124, 126
+  orig: 320, 320
+  offset: 96, 94
+  index: -1
+nonTrans/particleBurst/particleBurst_05
+  rotate: true
+  xy: 178, 43
+  size: 153, 150
+  orig: 320, 320
+  offset: 81, 82
+  index: -1
+nonTrans/particleBurst/particleBurst_06
+  rotate: true
+  xy: 2, 14
+  size: 182, 174
+  orig: 320, 320
+  offset: 67, 69
+  index: -1
+nonTrans/particleBurst/particleBurst_07
+  rotate: false
+  xy: 330, 8
+  size: 212, 199
+  orig: 320, 320
+  offset: 52, 56
+  index: -1
+nonTrans/particleBurst/particleBurst_08
+  rotate: false
+  xy: 893, 15
+  size: 244, 225
+  orig: 320, 320
+  offset: 36, 42
+  index: -1
+nonTrans/particleBurst/particleBurst_09
+  rotate: true
+  xy: 893, 242
+  size: 276, 250
+  orig: 320, 320
+  offset: 20, 28
+  index: -1
+nonTrans/particleBurst/particleBurst_10
+  rotate: true
+  xy: 306, 209
+  size: 309, 280
+  orig: 320, 320
+  offset: 4, 13
+  index: -1
+nonTrans/particleBurst/particleBurst_11
+  rotate: false
+  xy: 588, 211
+  size: 303, 307
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+nonTrans/particleBurst/particleBurst_12
+  rotate: false
+  xy: 2, 198
+  size: 302, 320
+  orig: 320, 320
+  offset: 8, 0
+  index: -1
+
+chipAnims.png
+size: 346,348
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Trans/chip
+  rotate: false
+  xy: 2, 2
+  size: 342, 344
+  orig: 360, 360
+  offset: 9, 8
+  index: -1

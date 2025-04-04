@@ -1,0 +1,167 @@
+{
+    "version": "12/20/2024 5h01 5 Card Cash Défaut SM",
+    "audioLoader":
+    {
+        "yes": "Oui",
+        "no": "Non",
+        "confirm": "Voulez-vous du son ?"
+    },
+    "Paytable":
+    {
+        "RTPvalue": "est de {@minRTP} %",
+        "RTPrange": "est compris entre {@minRTP} % et {@maxRTP} %",
+        "paybackTitle": "Expected Payback",
+        "paybackBody": "Pour ce jeu, le remboursement escompté théorique sur le long terme {RTP}.",
+        "subheading": "Ticket Cost: {ticketCost}",
+        "prizeLevel": "Rang de gains",
+        "prizeValue": "Valeur des gains",
+        "overallChances": "Il y a au total {odds} chance sur 4.00 de remporter un gain pour chaque partie.",
+        "prizeDivision": "Prize Division",
+        "prizeRemaining": "Approximate Prize Remaining",
+        "oddsPerPlay": "Odds Per Play"
+    },
+    "title": "5 Card Poker",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "name": "5 Card Poker Table des paiements",
+            "howToPlay": "Fichier d'aide",
+            "payTable": "Table des paiements",
+            "price": "Prix",
+            "stake": "Mise",
+            "balance": "Solde",
+            "prizeDivision": "Rang de gains",
+            "prizeValue": "Valeur des gains",
+            "approximatePrize": "Gains restants approximatif",
+            "oddsPerPlay": "Chance par partie",
+            "overAllOdds": "Il y a au total 1 chance sur {oddNum} de remporter un gain pour chaque partie.",
+            "availablePrices": "Points de prix disponibles : {prices}"
+        },
+        "Commercial":
+        {
+            "name": "5 Card Poker Table des paiements",
+            "howToPlay": "Fichier d'aide",
+            "payTable": "Table des paiements",
+            "price": "Prix",
+            "stake": "Mise",
+            "balance": "Solde"
+        },
+        "audio":
+        {
+            "on": "ON",
+            "off": "OFF",
+            "sound": "Son"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Erreur : 29000\n\nUne erreur interne s'est produite.\nQUITTEZ et relancez le jeu.",
+        "lostConnection": "Connexion perdue !"
+    },
+    "Game":
+    {
+        "demo": "",
+        "button_buy": "ACHETER JEU",
+        "button_try": "ESSAYER",
+        "button_play": "JOUER",
+        "button_continue": "CONTINUER",
+        "button_move2moneyGame": "MISER DE L’ARGENT RÉEL",
+        "button_autoPlay": "TOUT RÉVÉLER",
+        "button_payTable": "TABLE DES PAIEMENTS",
+        "button_retry": "RÉESSAYER",
+        "wager": "MISES",
+        "meter_wager": "MISES",
+        "balance": "SOLDE",
+        "wins": "GAIN",
+        "wins_demo": "GAIN",
+        "message_nonWin": "VOUS AUREZ PLUS DE CHANCE\nLA PROCHAINE FOIS",
+
+        "message_buyWin": "FÉLICITATIONS !\nVOUS AVEZ GAGNÉ",
+        "message_tryWin": "MERCI D’AVOIR JOUÉ !\nVOUS AURIEZ PU GAGNER",
+
+        "message_close": "OK",
+        "button_exit": "SORTIR",
+        "session_timeout_warning_exit_button": "SORTIR",
+        "error_button_exit": "SORTIR",
+        "warning_button_continue": "CONTINUER",
+        "warning_button_exitGame": "SORTIR",
+        "warning_title": "WARNING",
+        "error_title": "ERREUR",
+        "win_up_to": "Gagnez jusqu'à ",
+        "win_up_to_mark": "",
+
+        "tutorial_title_0": "COMMENT JOUER",
+        "tutorial_00_landscape": "Faites correspondre n'importe laquelle de VOS MAINS\navec les MAINS DES PRIX pour gagner instantanément.\n\nAppuyez sur AFFICHER LES MAINS DES PRIX\npour consulter les prix disponibles.",
+        "tutorial_00_portrait": "Faites correspondre n'importe laquelle de\nVOS MAINS avec les MAINS DES PRIX pour gagner instantanément.\n\nAppuyez sur AFFICHER LES MAINS DES PRIX\npour consulter les prix disponibles.",
+        "tutorial_title_1": "MAINS DES PRIX",
+        "tutorial_01_landscape": "Quinte flush royale – 10, Valet, Dame, Roi et As de la même couleur\n\nQuinte flush – Cinq cartes consécutives de la même couleur\n\nCarré – Quatre cartes de même valeur\n\nFull House – Un brelan plus une paire",
+        "tutorial_01_portrait": "Quinte flush royale – 10, Valet, Dame, Roi et As de la même couleur\n\nQuinte flush – Cinq cartes consécutives de la même couleur\n\nCarré – Quatre cartes de même valeur\n\nFull House – Un brelan plus une paire",
+        "tutorial_title_2": "MAINS DES PRIX",
+        "tutorial_02_landscape": "Couleur – Une combinaison de cinq cartes non consécutives de la même couleur\n\nQuinte – Cinq cartes consécutives de couleurs différentes\n\nBrelan – Trois cartes de même valeur\n\nDeux paires – n'importe quelle combinaison de deux paires",
+        "tutorial_02_portrait": "Couleur – Une combinaison de cinq cartes non consécutives de la même couleur\n\nQuinte – Cinq cartes consécutives de couleurs différentes\n\nBrelan – Trois cartes de même valeur\n\nDeux paires – n'importe quelle combinaison de deux paires",
+        "tutorial_title_3": "BONUS COULEUR PORTE-BONHEUR",
+        "tutorial_03_landscape": "Trouvez un JETON D'OR pour déclencher le jeu Bonus COULEUR PORTE-BONHEUR !\n\nChoisissez votre COULEUR PORTE-BONHEUR.\n\nRévélez les 12 cartes : faites correspondre au moins 4 cartes\navec votre COULEUR PORTE-BONHEUR pour gagner des prix !",
+        "tutorial_03_portrait": "Trouvez un JETON D'OR pour déclencher le jeu Bonus COULEUR PORTE-BONHEUR !\n\nChoisissez votre COULEUR PORTE-BONHEUR.\n\nRévélez les 12 cartes : faites correspondre au moins 4 cartes\navec votre COULEUR PORTE-BONHEUR pour gagner des prix !",
+        "tutorial_title_4": "TIRAGE DE LA MAIN PORTE-BONHEUR",
+        "tutorial_04_landscape": "À la fin de chaque partie, la MAIN PORTE-BONHEUR est tirée au sort !\n\n5 cartes sont révélées.\n\nFaîtes correspondre au moins 2 cartes\nde l'une de VOS MAINS individuelles avec la MAIN PORTE-BONHEUR pour gagner !",
+        "tutorial_04_portrait": "À la fin de chaque partie, la MAIN PORTE-BONHEUR est tirée au sort !\n\n5 cartes sont révélées.\n\nFaîtes correspondre au moins 2 cartes\nde l'une de VOS MAINS individuelles avec la MAIN PORTE-BONHEUR pour gagner !",
+        "yourHandsInfo": "Gagnez instantanément si l'une de VOS MAINS correspond aux MAINS DES PRIX !",
+        "yourHandsInfo_P": "Gagnez instantanément si l'une\nde VOS MAINS correspond\naux MAINS DES PRIX !",
+
+        "your_hands": "VOS MAINS",
+        "show_button_prize": "AFFICHER LES MAINS DES PRIX",
+        "hide_button_prize": "MASQUER LES MAINS DES PRIX",
+        "luckyBonusInfo": "Déclenche le jeu Bonus\nCOULEUR PORTE-BONHEUR !",
+        "luckyHandInfo": "Tirage de la MAIN PORTE-BONHEUR\nà la fin de chaque partie !",
+        "bonusWin": "Couleur porte-bonheur - ",
+        "bonusWinHead": "   ",
+        "luckyHandWin": "Main porte-bonheur - ",
+
+        "pocker_A": "Quinte Flush Royale",
+        "pocker_B": "Quinte Flush",
+        "pocker_C": "Carré",
+        "pocker_D": "Full House",
+        "pocker_E": "Couleur",
+        "pocker_F": "Quinte",
+        "pocker_G": "Brelan",
+        "pocker_H": "Deux paires",
+        "prizeContact": " - ",
+        "prizeTableInfo": "Gagnez instantanément si l'une de VOS MAINS correspond aux MAINS DES PRIX !",
+        "prizeTableInfo_P": "Gagnez instantanément si\nl'une de VOS MAINS\ncorrespond aux MAINS DES PRIX !",
+        "Disclaimer": "* Les images des mains des prix ne sont que des exemples",
+        "luckyBonus": "BONUS COULEUR PORTE-BONHEUR",
+        "luckySUITS": "  COULEUR PORTE-BONHEUR",
+
+        "pickInfo": "Choisissez une COULEUR PORTE-BONHEUR pour lancer le Bonus",
+        "pickInfo_P": "Choisissez une COULEUR PORTE-BONHEUR\npour lancer le Bonus",
+        "pickInfoResult": "Votre COULEUR choisie est ",
+        "pickInfoResult_P": "Votre COULEUR choisie est\n",
+        "pocker_Spades": "PIQUE",
+        "pocker_Hearts": "CŒUR",
+        "pocker_Diamonds": "CARREAU",
+        "pocker_Clubs": "TRÈFLE",
+
+        "luckyBonusPickedInfo": "Cliquez sur chaque carte et révélez au moins 4 {suit} pour gagner des prix",
+        "luckyBonusPickedInfo_P": "Cliquez sur chaque carte et révélez au moins\n4 {suit} pour gagner des prix",
+        "luckyBonusPrize": "PRIX",
+
+        "match": "Correspondance ",
+
+        "luckyHand": "MAIN PORTE-BONHEUR",
+        "luckyHandBonusInfo": "Faîtes correspondre des cartes\nà n'importe laquelle de VOS MAINS\npour gagner !",
+        "luckyHandBonusInfo_P": "Faîtes correspondre des cartes à n'importe laquelle de VOS MAINS pour gagner !",
+
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Niveaux de prix",
+        "prizeDescription": "Description",
+        "prizeLuckyHand": "Correspondance Main porte-bonheur ",
+        "prizeBonus": "Correspondance Bonus Couleur porte-bonheur ",
+
+        "paytableWager": "Mises : ",
+        "prizeValue": "Valeur des gains",
+        "lucky": "PORTE-BONHEUR",
+        "multi": "x"
+    }
+}

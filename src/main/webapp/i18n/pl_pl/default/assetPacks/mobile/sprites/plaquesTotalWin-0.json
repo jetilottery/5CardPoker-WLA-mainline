@@ -1,0 +1,101 @@
+{"frames": {
+
+"glow.png":
+{
+	"frame": {"x":813,"y":1,"w":1034,"h":806},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1034,"h":806},
+	"sourceSize": {"w":1034,"h":806}
+},
+"landscape_BonusInfo.png":
+{
+	"frame": {"x":1910,"y":1,"w":1439,"h":110},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1439,"h":110},
+	"sourceSize": {"w":1440,"h":110}
+},
+"landscape_HandTypes.png":
+{
+	"frame": {"x":1,"y":921,"w":1435,"h":557},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1435,"h":557},
+	"sourceSize": {"w":1435,"h":557}
+},
+"landscape_howToWin.png":
+{
+	"frame": {"x":813,"y":809,"w":1095,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1095,"h":100},
+	"sourceSize": {"w":1095,"h":100}
+},
+"landscape_KeepPlaying.png":
+{
+	"frame": {"x":1438,"y":911,"w":1015,"h":293},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1015,"h":293},
+	"sourceSize": {"w":1015,"h":293}
+},
+"landscape_LosePlaque.png":
+{
+	"frame": {"x":1438,"y":911,"w":1015,"h":293},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1015,"h":293},
+	"sourceSize": {"w":1015,"h":293}
+},
+"landscape_LuckyHands.png":
+{
+	"frame": {"x":1733,"y":911,"w":1136,"h":142},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1136,"h":142},
+	"sourceSize": {"w":1136,"h":142}
+},
+"landscape_tutorialBackground.png":
+{
+	"frame": {"x":1,"y":1480,"w":1332,"h":491},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1332,"h":491},
+	"sourceSize": {"w":1332,"h":491}
+},
+"portrait_HandTypes.png":
+{
+	"frame": {"x":1,"y":1,"w":810,"h":918},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":918},
+	"sourceSize": {"w":810,"h":918}
+},
+"tutorialCoin.png":
+{
+	"frame": {"x":1484,"y":1928,"w":107,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":99},
+	"sourceSize": {"w":107,"h":99}
+},
+"tutorialHand.png":
+{
+	"frame": {"x":1335,"y":1928,"w":147,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":102},
+	"sourceSize": {"w":147,"h":102}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "plaquesTotalWin-0.png",
+	"format": "RGBA8888",
+	"size": {"w":2021,"h":2048},
+	"scale": "1",
+	"related_multi_packs": [ "plaquesTotalWin-1.json", "plaquesTotalWin-2.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:7d1f992693aaeb64e32bfd9e81fc4ad4:da974d1dcd3b5b00bcbc5c94b1870d68:971e36cc209df77f65fd74ffbbe092bf$"
+}
+}

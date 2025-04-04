@@ -1,0 +1,72 @@
+
+Transition.png
+size: 1444,1444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+clubRing
+  rotate: false
+  xy: 2, 2
+  size: 1440, 1440
+  orig: 1440, 1440
+  offset: 0, 0
+  index: -1
+
+Transition2.png
+size: 1444,1444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diamondRing
+  rotate: false
+  xy: 2, 2
+  size: 1440, 1440
+  orig: 1440, 1440
+  offset: 0, 0
+  index: -1
+
+Transition3.png
+size: 1444,1444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+heartSwirl
+  rotate: false
+  xy: 2, 2
+  size: 1440, 1440
+  orig: 1440, 1440
+  offset: 0, 0
+  index: -1
+
+Transition4.png
+size: 1444,1444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spadeSwirl
+  rotate: false
+  xy: 2, 2
+  size: 1440, 1440
+  orig: 1440, 1440
+  offset: 0, 0
+  index: -1
+
+Transition5.png
+size: 1626,1444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+landscape_BG
+  rotate: true
+  xy: 814, 2
+  size: 1440, 810
+  orig: 1440, 810
+  offset: 0, 0
+  index: -1
+portrait_BG
+  rotate: false
+  xy: 2, 2
+  size: 810, 1440
+  orig: 810, 1440
+  offset: 0, 0
+  index: -1

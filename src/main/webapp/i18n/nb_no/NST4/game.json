@@ -1,0 +1,157 @@
+﻿{
+    "version": "11-18-2020 2:01PM 6 Fulle Hender Default SM",
+    "audioLoader":
+    {
+        "yes": "Ja",
+        "no": "Nei",
+        "confirm": "Ønsker du lyd?"
+    },
+    "Paytable":
+    {
+        "RTPvalue": "er {@minRTP}%",
+        "RTPrange": "er fra {@minRTP}% til {@maxRTP}%",
+        "paybackTitle": "Forventet premieandel",
+        "paybackBody": "For dette spillet er den forventede langsiktige premieandelen {RTP}."
+    },
+    "title": "6 Fulle Hender",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "Slik spiller du",
+            "payTable": "Premieoversikt",
+            "price": "Pris",
+            "stake": "Innsats",
+            "balance": "Saldo",
+            "prizeDivision": "Prize Division",
+            "prizeValue": "Premieverdi",
+            "approximatePrize": "Ca. antall gjenstående premier",
+            "oddsPerPlay": "Vinnersjanse",
+            "overAllOdds": "Det er 1 til {oddNum} sjanse for å vinne på hvert spill",
+            "availablePrices": "Tilgjengelige innsatsnivåer:{innsatser}"
+        },
+        "Commercial":
+        {
+            "howToPlay": "Slik spiller du",
+            "payTable": "Premieoversikt",
+            "price": "Pris",
+            "stake": "Innsats",
+            "balance": "Saldo"
+        },
+        "audio":
+        {
+            "on": "På",
+            "off": "Av",
+            "sound": "Lyd"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Error:29000\n\nDet har oppstått en intern feil.\nLukk spillet og last det inn på nytt.",
+        "lostConnection": "Mistet forbindelsen!"
+    },
+    "Game":
+    {
+        "demo": "PRØVESPILL ",
+        "button_buy": "SPILL",
+        "button_try": "PRØVESPILL",
+        "button_play": "SPILL",
+        "button_continue": "FORTSETT",
+        "button_move2moneyGame": "SPILL FOR EKTE PENGER",
+        "button_autoPlay": "FULLFØR",
+        "button_payTable": "PREMIEOVERSIKT",
+        "button_retry": "SPILL IGJEN",
+        "wager": "PRIS",
+        "meter_wager": "PRIS",
+        "balance": "SALDO",
+        "wins": "PREMIE",
+        "wins_demo": "PREMIE PRØVESPILL",
+        "message_nonWin": "BEKLAGER, INGEN PREMIE!",
+
+        "message_buyWin": "GRATULERER DU VANT!\nSAMLET PREMIE",
+        "message_tryWin": "PREMIE PRØVESPILL!\nHADDE DETTE VÆRT ET SPILL FOR EKTE PENGER, HADDE DU VUNNET",
+
+        "message_close": "OK",
+        "button_exit": "LUKK",
+        "session_timeout_warning_exit_button": "LUKK",
+        "error_button_exit": "LUKK",
+        "warning_button_continue": "FORTSETT",
+        "warning_button_exitGame": "LUKK",
+        "warning_title": "ADVARSEL",
+        "error_title": "FEIL",
+        "win_up_to": "Toppremie ",
+        "win_up_to_mark": "!",
+
+        "tutorial_title_0": "SLIK SPILLER DU",
+        "tutorial_00_landscape": "Match enhver av dine hender for å vinne. Klikk på vis Premiehender for å se tilgjengelige premier. ",
+        "tutorial_00_portrait": "Match enhver av dine hender for å vinne. \n\nKlikk på vis Premiehender for å se tilgjengelige premier.",
+        "tutorial_title_1": "PREMIEHENDER",
+        "tutorial_01_landscape": "Royal Flush – 10, knekt, dronning, konge og ess i samme sort\n\nStraight Flush – Fem kort i rekkefølge i samme sort \n\nFire like – Fire kort med samme verdi\n\nFullt hus – Tre like pluss ett par",
+        "tutorial_01_portrait": "Royal Flush – 10, knekt, dronning, konge og ess i samme sort\n\nStraight Flush – Fem kort i rekkefølge i samme sort \n\nFire like – Fire kort med samme verdi\n\nFullt hus – Tre like pluss ett par",
+        "tutorial_title_2": "PREMIEHENDER",
+        "tutorial_02_landscape": "Flush – 5 kort i samme sort \n\nStraight – 5 kort etter hverandre av ulik sort\n\nTre like – Tre kort med samme verdi\n\nTo par – To kort med matchende verdi pluss to andre kort med en annen matchende verdi",
+        "tutorial_02_portrait": "Flush – 5 kort i samme sort \n\nStraight – 5 kort etter hverandre av ulik sort\n\nTre like – Tre kort med samme verdi\n\nTo par – To kort med matchende verdi pluss to andre kort med en annen matchende verdi",
+        "tutorial_title_3": "LYKKESORT TILLEGGSSPILL",
+        "tutorial_03_landscape": "Finn en GULL CHIP for å utløse LYKKESORT-tilleggsspillet!\n\nVelg din LYKKESORT\n\nAvdekk alle 12 kortsymbolene – Match 4 eller flere kortsymboler i din lykkesort for å vinne!",
+        "tutorial_03_portrait": "Finn en GULL CHIP for å utløse Lykke sort-tilleggsspillet!\n\nVelg din Lykkesort.nAvdekk alle 12 kortsymbolene – Match 4 eller flere \nkortsymboler i din lykkesort for å vinne!",
+        "tutorial_title_4": "LYKKEHÅND-TREKNING",
+        "tutorial_04_landscape": "På slutten av hvert spill vil det være en lykkehånd-trekning!\n\n5 kort vil avdekkes\n\nMatch 2 eller flere kort innenfor\nenhver individuell hånd for å vinne!",
+        "tutorial_04_portrait": " På slutten av hvert spill vil det være en lykkehånd-trekning!\n\n5 kort vil avdekkes\n\nMatch 2 eller flere kort innenfor\nenhver individuell hånd for å vinne!",
+        "yourHandsInfo": "Vinn umiddelbart hvis noen av hendene dine matcher premiehendene!",
+        "yourHandsInfo_P": " Vinn umiddelbart hvis noen av \nhendene dine matcher premiehendene!",
+        "your_hands": "DINE HENDER",
+        "show_button_prize": "VIS PREMIEHENDER",
+        "hide_button_prize": "SKJUL PREMIEHENDER",
+        "luckyBonusInfo": "Utløser LYKKESORT-tilleggsspillet!",
+        "luckyHandInfo": "Lykkehånd-trekning på slutten\nav hvert spill!",
+        "bonusWin": "Premie tilleggsspill - ",
+        "bonusWinHead": "   ",
+        "luckyHandWin": "Lykketrekning - ",
+
+        "pocker_A": "Royal Flush",
+        "pocker_B": "Straight Flush",
+        "pocker_C": "Fire like",
+        "pocker_D": "Fullt hus",
+        "pocker_E": "Flush",
+        "pocker_F": "Straight",
+        "pocker_G": "Tre like",
+        "pocker_H": "To par",
+        "prizeContact": " - ",
+        "prizeTableInfo": "Vinn umiddelbart hvis noen av hendene dine matcher premiehendene!",
+        "prizeTableInfo_P": "Vinn umiddelbart hvis noen av \nhendene dine matcher premiehendene!",
+        "Disclaimer": "*Premiehendene er kun eksempler",
+        "luckyBonus": "LYKKESORT-TILLEGGSSPILL",
+        "luckySUITS": "LYKKESORT",
+
+        "pickInfo": "Velg en Lykkesort for å starte tilleggsspillet",
+        "pickInfo_P": "Velg en Lykkesort for å starte tilleggsspillet.",
+        "pickInfoResult": "Din valgte sort er",
+        "pickInfoResult_P": "Din valgte sort er",
+        "pocker_Spades": "SPAR",
+        "pocker_Hearts": "HJERTER",
+        "pocker_Diamonds": "RUTER",
+        "pocker_Clubs": "KLØVER",
+
+        "luckyBonusPickedInfo": "Klikk på hvert kort og avdekk 4 eller flere (sort) for å vinne",
+        "luckyBonusPickedInfo_P": " Klikk på hvert kort og avdekk 4 eller flere (sort) for å vinne ",
+        "luckyBonusPrize": "LYKKESORT PREMIE",
+
+        "match": "Match ",
+
+        "luckyHand": "LYKKEHÅND",
+        "luckyHandBonusInfo": "Match 2 eller flere kort\ninnenfor enhver individuell\nhånd for å vinne!",
+        "luckyHandBonusInfo_P": "Match 2 eller flere kort innenfor enhver\nindividuell hånd for å vinne!",
+
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Premienivå",
+        "prizeDescription": "Beskrivelse",
+        "prizeLuckyHand": "Lykkehånd Premie ",
+        "prizeBonus": "Lykkesort premie ",
+
+        "paytableWager": "Pris: ",
+        "prizeValue": "Premieverdi",
+        "lucky": "LYKKE",
+        "multi": "x"
+    }
+}

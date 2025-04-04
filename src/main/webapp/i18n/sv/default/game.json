@@ -1,0 +1,158 @@
+﻿{
+    "version": "2020-11-18 kl. 14.01 5 Card Cash Standard SM",
+    "audioLoader":
+    {
+        "yes": "Ja",
+        "no": "Nej",
+        "confirm": "Vill du ha ljud?"
+    },
+    "Paytable": {
+        "RTPvalue": "är {@minRTP} %",
+        "RTPrange": "är från {@minRTP} % till {@maxRTP} %",
+        "paybackTitle": "Förväntad återbetalning",
+        "paybackBody": "I det här spelet är den långsiktiga, teoretiskt förväntade återbetalningen {RTP}."
+    },
+    "title": "5 Card Poker",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "Hjälp",
+            "payTable": "Vinsttabell",
+            "price": "Pris",
+            "stake": "Insats",
+            "balance": "Saldo",
+			"prizeDivision": "Prisindelning",
+			"prizeValue": "Prisvärde",
+			"approximatePrize": "Ungefärligt antal återstående priser",
+			"oddsPerPlay": "Odds per spel",
+			"overAllOdds": "Sannolikheten att vinna ett pris är 1 på {oddNum} under varje spel",
+			"availablePrices": "Tillgängliga prisnivåer:{prices}"
+        },
+        "Commercial":
+        {
+            "howToPlay": "Hjälp",
+            "payTable": "Vinsttabell",
+            "price": "Pris",
+            "stake": "Insats",
+            "balance": "Saldo"
+        },
+        "audio":
+        {
+            "on": "På",
+            "off": "Av",
+            "sound": "Ljud"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Fel:29000\n\nDet har inträffat ett internt fel.\nLÄMNA och starta om spelet.",
+        "lostConnection": "Anslutningen avbröts!"
+    },
+    "Game":
+    {        
+        "demo": "FÖRSÖK ",
+        "button_buy": "KÖP",
+        "button_try": "FÖRSÖK",
+        "button_play": "SPELA",
+        "button_continue": "FORTSÄTT",
+        "button_move2moneyGame": "FLYTTA TILL PENGAR",
+        "button_autoPlay": "AVSLÖJA ALLA",
+        "button_payTable": "VINSTTABELL",
+        "button_retry": "FÖRSÖK IGEN",
+        "wager": "LOTTKOSTNAD",
+        "meter_wager": "LOTTKOSTNAD",
+        "balance": "SALDO",
+        "wins": "VINST",
+        "wins_demo": "DEMOVINST",
+        "message_nonWin": "BÄTTRE LYCKA\nNÄSTA GÅNG",
+
+        "message_buyWin": "TOTALVINST",
+        "message_tryWin": "TOTAL DEMOVINST",
+
+        "message_close": "OK",
+        "button_exit": "LÄMNA",
+        "session_timeout_warning_exit_button": "LÄMNA",
+        "error_button_exit": "LÄMNA",
+        "warning_button_continue": "FORTSÄTT",
+        "warning_button_exitGame": "LÄMNA",
+        "warning_title": "VARNING",
+        "error_title": "FEL",
+        "win_up_to": "Vinn upp till ",
+        "win_up_to_mark": "!",
+
+        "tutorial_title_0": "SÅ HÄR SPELAR DU",
+        "tutorial_00_landscape": "Matcha DINA HÄNDER med\nPRISHÄNDERNA för att vinna direkt.\n\nTryck på VISA PRISHÄNDER\nför att se tillgängliga priser.",
+        "tutorial_00_portrait": "Matcha DINA HÄNDER med\nPRISHÄNDERNA för att vinna direkt.\n\nTryck på VISA PRISHÄNDER\nför att se tillgängliga priser.",
+		"tutorial_title_1": "PRISHÄNDER",
+        "tutorial_01_landscape": "Royal Flush – 10, knekt, dam, kung och ess i samma färg\n\nFärgstege – Fem på varandra följande kort i samma färg\n\nFyrtal – Fyra kort i samma valör\n\nKåk – Triss plus ett par",
+        "tutorial_01_portrait": "Royal Flush – 10, knekt, dam, kung och ess i samma färg\n\nFärgstege – Fem på varandra följande korts i samma färg\n\nFyrtal – Fyra kort i samma valör\n\nKåk – Triss plus ett par",
+        "tutorial_title_2": "PRISHÄNDER",
+        "tutorial_02_landscape": "Färg – Fem kort i samma färg som inte är i följd\n\nStege – Fem på varandra följande kort\n\nTriss – Tre kort i samma valör\n\nTvå par – Två valfria par",
+        "tutorial_02_portrait": "Färg – Fem kort i samma färg som inte är i följd\n\nStege – Fem på varandra följande kort\n\nTriss – Tre kort i samma valör\n\nTvå par – Två valfria par",
+        "tutorial_title_3": "TURFÄRGSBONUS",        
+        "tutorial_03_landscape": "Hitta en GYLLENE SPELMARKER för att aktivera bonusspelet TURFÄRG!\n\nVälj TURFÄRG\n\nAvslöja alla 12 kort – Matcha minst 4 kort\nmed din TURFÄRG för att vinna priser! ",
+        "tutorial_03_portrait": "Hitta en GYLLENE SPELMARKER för att aktivera\nbonusspelet TURFÄRG!\n\nVälj TURFÄRG\n\nAvslöja alla 12 kort –\nMatcha minst 4 kort\nmed din TURFÄRG för att vinna priser! ",
+        "tutorial_title_4": "TURHANDSDRAGNING",        
+        "tutorial_04_landscape": "I slutet av varje spel dras en TURHAND!\n\n5 kort kommer att dras\n\nMatcha minst 2 kort inom\nen och samma av DINA HÄNDER mot TURDRAGNINGEN för att vinna!",
+        "tutorial_04_portrait": "I slutet av varje spel\ndras en TURHAND!\n\n5 kort kommer att dras\n\nMatcha minst 2 kort \ninom en och samma av DINA HÄNDER\nmot TURDRAGNINGEN för att vinna!",
+        
+        "yourHandsInfo":"Vinn direkt om någon av DINA HÄNDER matchar PRISHÄNDERNA!",
+        "yourHandsInfo_P":"Vinn direkt om någon\nav DINA HÄNDER\nmatchar PRISHÄNDERNA!",
+        
+        "your_hands": "DINA HÄNDER",
+        "show_button_prize":"VISA PRISHÄNDER",
+        "hide_button_prize":"DÖLJ PRISHÄNDER",
+        "luckyBonusInfo":"Aktiverar bonusspelet\nTURFÄRG!",
+        "luckyHandInfo":"TURHANDSDRAGNING i slutet\nav varje spel!",
+        "bonusWin":"Turfärg – ",
+        "bonusWinHead":"   ",
+        "luckyHandWin":"Turhand – ",
+
+        "pocker_A":"Royal Flush",
+        "pocker_B":"Färgstege",
+        "pocker_C":"Fyrtal",
+        "pocker_D":"Kåk",
+        "pocker_E":"Färg",
+        "pocker_F":"Stege",
+        "pocker_G":"Triss",
+        "pocker_H":"Tvåpar",
+        "prizeContact":" - ",
+        "prizeTableInfo":"Vinn direkt om någon av DINA HÄNDER matchar PRISHÄNDERNA!",
+        "prizeTableInfo_P":"Vinn direkt om någon\nav DINA HÄNDER\nmatchar PRISHÄNDERNA!",
+        "Disclaimer": "*Bilderna på prishänder\när endast exempel",
+        "luckyBonus": "TURFÄRGSBONUS",
+        "luckySUITS": "TURFÄRG",
+
+        "pickInfo": "Välj en TURFÄRG för att starta bonusen",
+        "pickInfo_P": "Välj en TURFÄRG\nför att starta bonusen",
+        "pickInfoResult": "Din valda FÄRG är ",
+        "pickInfoResult_P": "Din valda FÄRG är\n",
+        "pocker_Spades":"SPADER",
+        "pocker_Hearts":"HJÄRTAN",
+        "pocker_Diamonds":"RUTER",
+        "pocker_Clubs":"KLÖVER",
+
+       "luckyBonusPickedInfo":"Klicka på varje kort och avslöja minst 4 {suit} för att vinna priser",
+        "luckyBonusPickedInfo_P":"Klicka på varje kort och avslöja minst 4 {suit}\nför att vinna priser",
+        "luckyBonusPrize":"PRISER",
+
+        "match" : "Matcha ",
+
+        "luckyHand":"TURHAND",
+        "luckyHandBonusInfo":"Matcha kort\nmed någon av DINA HÄNDER\n för att vinna!",
+        "luckyHandBonusInfo_P":"Matcha kort med någon av DINA HÄNDER för att vinna!",
+
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Prisnivå",
+        "prizeDescription":"Beskrivning",
+        "prizeLuckyHand":"Matchning med turhand ",
+        "prizeBonus":"Matchning med turfärgsbonus ",
+
+        "paytableWager":"Lottkostnad: ",
+        "prizeValue": "Prisvärde",
+		"lucky": "TUR",
+        "multi":"x"
+    }
+}

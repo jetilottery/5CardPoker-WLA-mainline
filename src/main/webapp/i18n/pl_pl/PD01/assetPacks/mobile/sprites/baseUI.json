@@ -1,0 +1,62 @@
+{"frames": {
+
+"landscape_CardArea.png":
+{
+	"frame": {"x":493,"y":1,"w":1326,"h":462},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1326,"h":462},
+	"sourceSize": {"w":1326,"h":462}
+},
+"landscape_winBanner.png":
+{
+	"frame": {"x":849,"y":516,"w":354,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":354,"h":32},
+	"sourceSize": {"w":354,"h":32}
+},
+"landscape_YourHandBanner.png":
+{
+	"frame": {"x":493,"y":465,"w":1087,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1087,"h":49},
+	"sourceSize": {"w":1093,"h":49}
+},
+"portrait_CardArea.png":
+{
+	"frame": {"x":1,"y":1,"w":810,"h":490},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":490},
+	"sourceSize": {"w":810,"h":490}
+},
+"portrait_winBanner2.png":
+{
+	"frame": {"x":493,"y":516,"w":354,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":354,"h":64},
+	"sourceSize": {"w":354,"h":64}
+},
+"portrait_YourHandBanner.png":
+{
+	"frame": {"x":493,"y":582,"w":606,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":606,"h":43},
+	"sourceSize": {"w":606,"h":43}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "baseUI.png",
+	"format": "RGBA8888",
+	"size": {"w":1820,"h":812},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a2ec38f9b070724c5b52088b7601971e:ba9e8bc953e31c4457e6fc63cbf78a00:aa2608f1f26329acce28b27fb4021443$"
+}
+}

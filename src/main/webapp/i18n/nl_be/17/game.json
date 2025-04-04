@@ -1,0 +1,163 @@
+﻿{
+    "version": "11-18-2020 2:01PM 5 Card Cash Default SM",
+    "audioLoader":
+    {
+        "yes": "Ja",
+        "no": "Nee",
+        "confirm": "Wil je geluid?"
+    },
+    "Paytable": {
+        "RTPvalue": "is {@minRTP}%",
+        "RTPrange": "is van {@minRTP}% tot {@maxRTP}%",
+        "paybackTitle": "Verwachte uitbetaling",
+        "paybackBody": "Op lange termijn bedraagt de theoretisch verwachte uitbetaling van dit spel {RTP}."
+    },
+    "title": "5 Card Poker",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "HOE SPELEN?",
+            "payTable": "LEGENDE",
+            "price": "iNZET",
+            "stake": "Inzet",
+            "balance": "Balance",
+			"prizeDivision": "LEGENDE",
+			"prizeValue": "LEGENDE",
+			"approximatePrize": "Benaderde prijs over",
+			"oddsPerPlay": "Odds per spel",
+			"overAllOdds": "Er is een algemene winkans van 1 op {oddNum} bij elk spel",
+			"availablePrices": "Beschikbare prijzenpunten: {prices}"
+        },
+        "Commercial":
+        {
+          "howToPlay": "HOE SPELEN?",
+            "payTable": "LEGENDE",
+            "price": "iNZET",
+            "stake": "Inzet",
+            "balance": "Balance"
+        },
+        "audio":
+        {
+            "on": "Aan",
+            "off": "Uit",
+            "sound": "Uit"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Fout: 29000\n\nEr is een interne fout opgetreden.\nVERLAAT het spel en start het opnieuw op.",
+        "lostConnection": "Verbinding verbroken!"
+    },
+    "Game":
+    {
+        "demo": "DEMO ",
+        "button_buy": "KOPEN",
+        "button_try": "DEMO",
+        "button_play": "SPELEN",
+        "button_continue": "DOORGAAN",
+        "button_move2moneyGame": "KOPEN",
+        "button_autoPlay": "AUTOPLAY",
+        "button_payTable": "LEGENDE",
+        "button_retry": "KOPEN",
+        "wager": "INZET",
+        "meter_wager": "INZET",
+        "balance": "BALANCE",
+        "wins": "WINST",
+        "wins_demo": "DEMOWINST",
+        "message_nonWin": "HELAAS,\nGEEN WINST",
+
+        "message_buyWin": "TOTALE WINST",
+        "message_tryWin": "TOTALE DEMOWINST",
+
+        "message_close": "OK",
+        "button_exit": "VERLATEN",
+        "session_timeout_warning_exit_button": "VERLATEN",
+        "error_button_exit": "VERLATEN",
+        "warning_button_continue": "DOORGAAN",
+        "warning_button_exitGame": "VERLATEN",
+        "warning_title": "WARNING",
+        "error_title": "FOUT",
+        "win_up_to": "Win tot ",
+        "win_up_to_mark": "!",
+
+       "tutorial_title_0": "HOE SPELEN?",
+        "tutorial_00_landscape": "Wanneer 1 reeks van “Je kaarten” overeenstemt\nmet 1 reeks van de “Winnende kaarten”, dan win je het overeenkomstige bedrag.\n\nKlik op “Legende Winnende kaarten”\nom de mogelijke winstbedragen te bekijken.",
+        "tutorial_00_portrait": "Wanneer 1 reeks van “Je kaarten”\novereenstemt met 1 reeks van de\n“Winnende kaarten”, dan win\nje het overeenkomstige bedrag.\n\nKlik op “Legende Winnende kaarten”\nom de mogelijke winstbedragen te bekijken.",
+        "tutorial_title_1": "Winnende kaarten",
+        "tutorial_01_landscape": "Royal Flush – 10, Boer, Vrouw, Heer en Aas van dezelfde kleur\n\nStraight Flush – Vijf opeenvolgende kaarten van dezelfde kleur \n\nFour of a Kind – Vier kaarten met dezelfde waarde \n\nFull House – Combinatie van ‘Three of a Kind’ met één paar",
+        "tutorial_01_portrait": "Royal Flush – 10, Boer, Vrouw, Heer en Aas van dezelfde kleur\n\nStraight Flush – Vijf opeenvolgende kaarten van dezelfde kleur \n\nFour of a Kind – Vier kaarten met dezelfde waarde \n\nFull House – Combinatie van ‘Three of a Kind’ met één paar",
+        "tutorial_title_2": "Winnende kaarten",
+        "tutorial_02_landscape": "Flush – Vijf willekeurige kaarten van dezelfde kleur \n\nStraight – Vijf opeenvolgende kaarten van verschillende kleuren \n\nThree of a Kind – Drie kaarten met dezelfde waarde \n\nTwee Paar – om het even welke combinatie van twee paar",
+        "tutorial_02_portrait": "Flush – Vijf willekeurige kaarten van dezelfde kleur \n\nStraight – Vijf opeenvolgende kaarten van verschillende kleuren \n\nThree of a Kind – Drie kaarten met dezelfde waarde \n\nTwee Paar – om het even welke combinatie van twee paar",
+      "tutorial_title_3": "Bonusspel KLEUR",
+      "tutorial_03_landscape": "Ontdek een GOUDEN PENNING om te kunnen deelnemen aan het Bonusspel KLEUR!\n\nKies je GELUKSKLEUR.\n\nDraai de kaarten om: wanneer er minstens 4 kaarten\novereenstemmen met jouw GELUKSKLEUR, dan win je!",
+		"tutorial_03_portrait": "Ontdek een GOUDEN PENNING om te kunnen deelnemen aan het Bonusspel KLEUR!\n\nKies je GELUKSKLEUR.\n\nDraai de kaarten om: wanneer er\nminstens 4 kaarten overeenstemmen\nmet jouw GELUKSKLEUR, dan win je!",
+      "tutorial_title_4": "TREKKING VAN DE GELUKSKAARTEN",
+      "tutorial_04_landscape": "Op het einde van iedere partij worden de “Gelukskaarten” getrokken!\n\nEr verschijnen 5 kaarten.\n\nWanneer minstens 2 van deze “Gelukskaarten” overeenstemmen \nmet 2 kaarten in één reeks van “Je kaarten”, dan win je!",
+      "tutorial_04_portrait": "Op het einde van iedere partij worden de “Gelukskaarten” getrokken!\n\nEr verschijnen 5 kaarten.\n\nWanneer minstens 2 van deze “Gelukskaarten” overeenstemmen\nmet 2 kaarten in één reeks van “Je kaarten”, dan win je!",
+
+        "yourHandsInfo":"Je wint zodra een reeks van JE KAARTEN overeenstemt met een reeks van de WINNENDE KAARTEN!",
+        "yourHandsInfo_P": "Je wint zodra een reeks van JE KAARTEN\novereenstemt met een reeks van de WINNENDE KAARTEN!",
+
+
+        "your_hands": "JE KAARTEN",
+        "show_button_prize":"WINNENDE KAARTEN TONEN",
+        "hide_button_prize":"WINNENDE KAARTEN VERBERGEN",
+        "luckyBonusInfo":"Start het Bonusspel\nKLEUR!",
+        "luckyHandInfo":"Trekking van de GELUKSKAARTEN\nop het einde van elke partij!",
+        "bonusWin":"Bonusspel KLEUR - ",
+        "bonusWinHead":"   ",
+        "luckyHandWin":"Gelukskaarten - ",
+        "pocker_A":"Royal Flush",
+        "pocker_B":"Straight Flush",
+        "pocker_C":"Four of a Kind",
+        "pocker_D":"Full House",
+        "pocker_E":"Flush",
+        "pocker_F":"Straight",
+        "pocker_G":"Three of a Kind",
+        "pocker_H":"Twee Paar",
+        "prizeContact":" - ",
+        "prizeTableInfo":"Wanneer een reeks van JE KAARTEN overeenstemt\nmet een reeks van de WINNENDE KAARTEN, dan win je!",
+        "prizeTableInfo_P":"Wanneer een reeks van JE KAARTEN overeenstemt\nmet een reeks van de WINNENDE KAARTEN, dan win je!",
+        "Disclaimer": "*De afbeeldingen van de winnende kaarten zijn slechts voorbeelden",
+        "luckyBonus": "BONUSSPEL KLEUR",
+        "luckySUITS": "TREKKING GELUKSKLEUR",
+		
+		        "pickInfo": "Kies een GELUKSKLEUR",
+        "pickInfo_P": "Kies een GELUKSKLEUR",
+        "pickInfoResult": "Je gekozen kleur is ",
+        "pickInfoResult_P": "Je gekozen kleur is\n",
+        "pocker_Spades":"SCHOPPEN",
+        "pocker_Hearts":"HARTEN",
+        "pocker_Diamonds":"RUITEN",
+        "pocker_Clubs":"KLAVERNEN",
+
+
+       "luckyBonusPickedInfo":"Klik op iedere kaart en ontdek minstens 4 {suit} om te winnen!",
+        "luckyBonusPickedInfo_P":"Klik op iedere kaart en ontdek minstens 4 {suit} om te winnen!",
+
+        "luckyBonusPrize":"Legende",
+		
+        "match" : "Match ",
+		
+        "luckyHand":"GELUKSKAARTEN",
+        "luckyHandBonusInfo":"Wanneer je minstens 2 kaarten\naantreft in één reeks van\nJE KAARTEN, dan win je!",
+        "luckyHandBonusInfo_P":"Wanneer je minstens 2 kaarten aantreft \nin één reeks van JE KAARTEN, dan win je!",
+
+
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Inzet",
+        "prizeDescription":"Legende",
+        "prizeLuckyHand":"Overeenstemming Gelukskaarten ",
+        "prizeBonus":"Overeenstemming Bonusspel Kleur ",
+
+
+        "paytableWager":"Inzet",
+        "prizeValue": "Winst",
+        "lucky": "GELUK",
+        "multi":"x"
+
+    }
+}

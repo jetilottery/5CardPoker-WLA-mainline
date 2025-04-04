@@ -1,0 +1,14 @@
+{
+    "showTutorialAtBeginning": false,
+    "enableAudioDialog": false,
+    "showResultScreen": true,
+    "suppressNonWinResultPlaque" : true,
+    "revealHandInterval":100,
+    "revealCardInterval":50,
+    "baseToBonusInterval":500,
+    "bonusToBaseInterval":1000,
+    "bonusCardInterval":100,
+    "luckyHandCardInterval":100,
+    "resultWinL1":5,
+    "resultWinL2":20
+}

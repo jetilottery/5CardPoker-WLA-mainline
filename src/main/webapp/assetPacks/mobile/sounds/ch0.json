@@ -1,0 +1,29 @@
+{
+  "urls": [
+    "ch0.ogg",
+    "ch0.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "BackgroundMusicLoop": [
+      1050,
+      67980.04535147392
+    ],
+    "BackgroundMusicTerm_LOSE": [
+      69100,
+      2465.1927437641775
+    ],
+    "BackgroundMusicTerm_WIN": [
+      72150,
+      9634.467120181398
+    ],
+    "BonusMusicLoop": [
+      82200,
+      12342.607709750568
+    ]
+  }
+}
